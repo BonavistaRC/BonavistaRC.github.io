@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+
+	<html>
+
+		<head>
+			<title>{{ page.title }}</title>
+
+			<!-- Required meta tags -->
+    		<meta charset="utf-8">
+    		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+			<!-- stylesheets -->
+			<!--link href="/css/bootstrap.css" rel="stylesheet"-->
+   			<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" 
+   			      integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" 
+   			      crossorigin="anonymous">
+			<link href="/css/main.css" rel="stylesheet">
+
+
+			<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+			<!--[if lt IE 9]>
+				<script src="../../assets/js/html5shiv.js"></script>
+			 	<script src="../../assets/js/respond.min.js"></script>
+			<![endif]-->
+
+			<!-- Global site tag (gtag.js) - Google Analytics -->
+			<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179104159-1"></script>
+			<script>
+			  window.dataLayer = window.dataLayer || [];
+			  function gtag(){dataLayer.push(arguments);}
+			  gtag('js', new Date());
+
+			  gtag('config', 'UA-179104159-1');
+			</script>
+			<!-- Google Analytics -->
+
+			<!-- Adsense -->
+			<script data-ad-client="ca-pub-6149668164032398" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+			</script>
+
+		</head>
+
+
+
+		<body>
+			<div class="header">
+				<h3 class="text-muted ml-5 no-link-color"><a class="no-link-color" href="/">{{ "Home" }}</a></h3>
+			</div><!-- /.header -->
+				
+			
+			<div class="container">
+
+
+				{{ content }}
+
+				
+			
+			</div><!-- /.container -->
+
+			<div class="footer mt-5">
+				<p align="center"><small>© BonavistaRC {{ 'now' | date: "%Y" }}</small></p>
+			</div><!-- /.footer -->
+
+			
+
+		</body>
+	</html>
