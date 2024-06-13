@@ -52,7 +52,7 @@ h1 {
 **As a result of the recently passed [Blanket R-CG Rezoning](https://www.calgary.ca/planning/projects/rezoning-for-housing.html) are you concerned about what could be
 built beside you?** 
 
-Some Lake Bonavista community members have retained legal counsel [Carbert Waite LLP](https://carbertwaite.com/)and have started a Restrictive Covenant initiative to help maintain the nature of our community --- ***single-family homes, big trees, quiet/safe streets, ...*** --- An RC is the only legal option for keeping our neighbourhood the way it is today.
+Some Lake Bonavista community members have retained legal counsel [Carbert Waite LLP](https://carbertwaite.com/) and have started a Restrictive Covenant initiative to help maintain the nature of our community --- ***single-family homes, big trees, quiet/safe streets, ...*** --- An RC is the only legal option for keeping our neighbourhood the way it is today.
 
 ## What is R-CG Zoning?
 
@@ -77,6 +77,8 @@ character of lots from single-family homes to multi-family units
 * Other Calgary communities also pursuing this option include: Rideau-Roxboro, Kelvin Grove,
 Chinook Park, Eagle Ridge, Elbow Park, Mayfair-Bel-Aire
 
+<!---
+
 This may be a good article to link here: [https://www.cbc.ca/news/canada/calgary/calgary-restrictive-covenant-housing-affordability-1.6974306](https://www.cbc.ca/news/canada/calgary/calgary-restrictive-covenant-housing-affordability-1.6974306)
 
 ## What does it cost?
@@ -88,13 +90,18 @@ This may be a good article to link here: [https://www.cbc.ca/news/canada/calgary
 * Volunteer to be a ‘Block Captain’ for your street
   *  Communicate information and action plan to neighbours
   * Build a contact list for your street
-* Sign up for the RC – email BonavistaRC@gmail.com for details
+* Sign up for the RC – email [BonavistaRC@gmail.com](BonavistaRC@gmail.com) for details
 * Spread the word to your friends, neighbours and everyone you know in Lake Bonavista
+--->
+
 
 ## More Information
 * RC information meetings were held May 14 (in-person, attended by 70+), June 6 (virtual,
 attended by 100+) and June 8 (in-person, attended by 200+) which included information
-presented by a volunteer community member &amp; our lawyer (Curtis Marble; Carbert Waite LLP )
+presented by a volunteer community member; our lawyer [Curtis Marble; Carbert Waite LLP](https://carbertwaite.com/calgary-lawyers/curtis-marble/)
 who is working with several Calgary communities on their RC initiatives
-* Block captains will share information on future meetings
-* Receive more details by emailing BonavistaRC@gmail.com
+* Receive more details by emailing [BonavistaRC@gmail.com](BonavistaRC@gmail.com)
+
+---
+
+# Watch this space for more information
