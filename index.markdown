@@ -40,6 +40,10 @@ h1 {
 }
 
 
+blockquote {
+  background-color: #FFFF00;
+}
+
 </style>
 </head>
 </html>
@@ -49,59 +53,60 @@ h1 {
 
 ---
 
-**As a result of the recently passed [Blanket R-CG Rezoning](https://www.calgary.ca/planning/projects/rezoning-for-housing.html) are you concerned about what could be
-built beside you?** 
-
-Some Lake Bonavista community members have retained legal counsel [Carbert Waite LLP](https://carbertwaite.com/) and have started a Restrictive Covenant initiative to help maintain the nature of our community --- ***single-family homes, big trees, quiet/safe streets, ...*** --- An RC is the only legal option for keeping our neighbourhood the way it is today.
-
-## What is R-CG Zoning?
-
-Residential Contextual Grade Oriented (R-CG) allows for (i) single detached, (ii) semi-detached, (iii)
-townhouse, (iv) row house or (v) fourplex
-* Height: 11 metres /36 feet
-* Density: 75 units/hectare
-* Parking: 0.5 stalls/unit
-
-More Information R-CG zoning:
-* [City of Calgary Re-Zoning website](https://www.calgary.ca/planning/projects/rezoning-for-housing.html)
-* [City of Calgary R-CG pamphlet](https://www.calgary.ca/content/dam/www/pda/pd/publishingimages/current-projects/R-CG-residential-grade-oriented.pdf)
 
 
-## What is a Restrictive Covenant?
+<p align="center">
+  The City of Calgary has recently passed 
+    <a href="https://newsroom.calgary.ca/city-council-approves-citywide-rezoning-with-amendments-in-response-to-calgarys-housing-crisis"> Blanket R-CG Rezoning</a> to the majority of housing in Calgary. Lake Bonavista has been re-zoned to <a href="https://www.calgary.ca/content/dam/www/pda/pd/publishingimages/current-projects/R-CG-residential-grade-oriented.pdf">R-CG</a> effective August 6, 2024.
+</p>
 
-* Legally binding agreement that limits the actions of a property owner
-* Purpose is to maintain value and character of a property or neighbourhood
-  * In our case, the focus of the RC is to prevent subdividing properties and changing the
-character of lots from single-family homes to multi-family units
-* A “property right” which supersedes a land use bylaw
-* Other Calgary communities also pursuing this option include: Rideau-Roxboro, Kelvin Grove,
-Chinook Park, Eagle Ridge, Elbow Park, Mayfair-Bel-Aire
-
-<!---
-
-This may be a good article to link here: [https://www.cbc.ca/news/canada/calgary/calgary-restrictive-covenant-housing-affordability-1.6974306](https://www.cbc.ca/news/canada/calgary/calgary-restrictive-covenant-housing-affordability-1.6974306)
-
-## What does it cost?
-* $500 / homeowner
-  * 50% for legal fees (legal, paralegal, land title fees, community meetings, signings)
-  * 50% for defence fund (held in trust) for potential challenges by developers
-
-## Call to Action
-* Volunteer to be a ‘Block Captain’ for your street
-  *  Communicate information and action plan to neighbours
-  * Build a contact list for your street
-* Sign up for the RC – email [BonavistaRC@gmail.com](BonavistaRC@gmail.com) for details
-* Spread the word to your friends, neighbours and everyone you know in Lake Bonavista
---->
+<p align="center">
+This site is dedicate to an effort to <b>add a Restrictive Covenant to the single family residences in Lake Bonavista</b> to preserve the nature of our community ... single-family homes, big trees, quiet/safe streets, ...
+</p>
 
 
-## More Information
-* RC information meetings were held May 14 (in-person, attended by 70+), June 6 (virtual,
-attended by 100+) and June 8 (in-person, attended by 200+) which included information
-presented by a volunteer community member; our lawyer [Curtis Marble; Carbert Waite LLP](https://carbertwaite.com/calgary-lawyers/curtis-marble/)
-who is working with several Calgary communities on their RC initiatives
-* Receive more details by emailing [BonavistaRC@gmail.com](BonavistaRC@gmail.com)
+
+<div style="text-align: center;margin-top: 0.5rem;margin-bottom: 1rem;">
+    <a href="https://thecityofcalgary.maps.arcgis.com/apps/instant/lookup/index.html?appid=60d7b740704b454481c5a3ca40aae073"><img src="../img/LBRCGMAP.png "></a>
+</div>
+
+
+Several information seesions have been held including information from our lawyer [Curtis Marble; Carbert Waite LLP](https://carbertwaite.com/calgary-lawyers/curtis-marble/) who is working with several Calgary communities on their RC initiatives
+
+<p align="center">
+    <object data="../docs/InfoSlides.pdf" type="application/pdf" width="100%" height="460px">
+      <p>Unable to display PDF file. <a href="../docs/InfoSlides.pdf">Download</a></p>
+    </object>
+ </p>
+
+ We are a group of Lake Bonavista community members have retained legal counsel <a href="https://carbertwaite.com/">Carbert Waite LLP</a> who have drafted the proposed Restrictive Covenant for property owners of Lake Bonavista.
+
 
 ---
 
-# Watch this space for more information
+
+
+## Call to Action
+* Sign-up to add the Covenant to your title (cost $500) by [following these instructions.](../faq#rcsign)
+* Volunteer to help spread the word by being a ‘Block Captain’ for your street by [filling out this form](../block) the list of streets that have Block Captains can be found [here](../contact#block)
+* Spread the word to your friends, neighbours and everyone you know in Lake Bonavista
+* Sign-up for our mailing list by
+ [filling out this form](../mailinglist)
+
+
+---
+
+
+<h2 align="center">Restrictive Covenant Information Meeting - Virtual</h2>
+<p align="center" style="margin:0"><b>Tuesday, June 25 @ 7pm MT</b></p>
+<p align="center" style="margin:0"><b><a href="https://teams.microsoft.com">Mircrosft Teams</a></b></p>
+<p align="center" style="margin:0"><b>Meeting ID: 241 076 488 354</b></p>
+<p align="center"><b>Passcode: e8v67S</b></p>
+
+
+ The purpose of this virtual meeting is to outline the strategy of using a Restrictive Covenant to preserve the single family home nature of Lake Bonavista. This meeting will be led by community members and the legal counsel retained to represent us. Our lawyer,  [Curtis Marble](https://carbertwaite.com/calgary-lawyers/curtis-marble/)of [Carbert Waite LLP](ttps://carbertwaite.com/), will take questions at the end of the presentation.
+
+This meeting will take place on Microsoft Teams. You may wish to download the app ahead of time, or visit [Mircrosft Teams](https://teams.microsoft.com) in your web browser and use: 
+
+<p align="center" style="margin:0"><b>Meeting ID: 241 076 488 354</b></p>
+<p align="center"><b>Passcode: e8v67S</b></p>
