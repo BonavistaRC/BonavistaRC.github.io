@@ -80,9 +80,9 @@ td {
 
 **Q: What areas of the City have been rezoned by Calgary?**
 
-The City of Calgary has passed citywide rezoning where the maojrity of the city has been designated R-CG. The new Zoning will be effective August 6, 2024. This includes all of the residential Housing in Lake Bonavista. 
+The City of Calgary has passed citywide rezoning where the majority of the city has been designated R-CG. The new Zoning will be effective August 6, 2024. This includes all of the residential Housing in Lake Bonavista. 
 
-More infomation on the areas effected:
+More information on the areas affected:
 
 * [City of Calgary Rezoning for Housing Interactive Map](https://thecityofcalgary.maps.arcgis.com/apps/instant/lookup/index.html?appid=60d7b740704b454481c5a3ca40aae073)
 * [City of Calgary Press Release](https://newsroom.calgary.ca/city-council-approves-citywide-rezoning-with-amendments-in-response-to-calgarys-housing-crisis)
@@ -91,7 +91,7 @@ More infomation on the areas effected:
 **Q: What is R-CG Zoning?**
 
 Residential Contextual Grade Oriented (R-CG) allows for (i) single detached, (ii) semi-detached, (iii) townhouse, (iv) row house or (v) fourplex
-* Height: 11 metres/36 feet (3 storeys)
+* Height: 11 meters/36 feet (3 storeys)
 * Density: 75 units/hectare
 * Parking: 0.5 stalls/unit
 
@@ -132,9 +132,9 @@ Other Calgary communities also pursuing similar RC include: Rideau-Roxboro, Kelv
 
 It is $500/homeowner it is approximately a 50/50 split between:
 * Legal fees (legal, paralegal, land title fees, community meetings, signings)
-* Defence fund (held in trust) for potential challenges by developers
+* Defense fund (held in trust) for potential challenges by developers
 
-The exact split is dependant on each homeowners specific situation.
+The exact split is dependent on each homeowners specific situation.
 
 
 ###### **Q: How do I add the Restrictive Covenant?** {#rcsign}
@@ -147,7 +147,7 @@ There are three steps to register the Restrictive Covenant on your property:
 * Street address with postal code
 * Phone number
 * Are you legally married? Yes/No. If you are divorced or your spouse has passed away please let us know that too.
-2. Then you will recieve an email with a copy of the agreement, File number, Payment Information, and dates of upcoming Signing Meetings.
+2. Then you will receive an email with a copy of the agreement, File number, Payment Information, and dates of upcoming Signing Meetings.
 3. Attend a Signing Meeting
 * Bring ID
 * Spouses must attend signing together
@@ -168,7 +168,7 @@ A group of Lake Bonavista community members have retained legal counsel [Carbert
   * Build a contact list for your street
 * Spread the word to your friends, neighbours and everyone you know in Lake Bonavista
 * Sign-up for our mailing list by
- filling out this form](../mailinglist)
+ [filling out this form](../mailinglist)
 
 
 
