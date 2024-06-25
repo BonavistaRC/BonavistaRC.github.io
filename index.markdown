@@ -55,23 +55,21 @@ blockquote {
 
 
 
-<p align="center">
-  The City of Calgary has recently passed 
-    <a href="https://newsroom.calgary.ca/city-council-approves-citywide-rezoning-with-amendments-in-response-to-calgarys-housing-crisis"> Blanket R-CG Rezoning</a> to the majority of housing in Calgary. Lake Bonavista has been re-zoned to <a href="https://www.calgary.ca/content/dam/www/pda/pd/publishingimages/current-projects/R-CG-residential-grade-oriented.pdf">R-CG</a> effective August 6, 2024.
+p align="center">
+  The City of Calgary has recently approved
+    <a href="https://newsroom.calgary.ca/city-council-approves-citywide-rezoning-with-amendments-in-response-to-calgarys-housing-crisis"> Blanket R-CG Rezoning</a> for the majority of housing in Calgary. Lake Bonavista has been rezoned to <a href="https://www.calgary.ca/content/dam/www/pda/pd/publishingimages/current-projects/R-CG-residential-grade-oriented.pdf">R-CG</a> effective August 6, 2024.
 </p>
 
 <p align="center">
-This site is dedicate to an effort to <b>add a Restrictive Covenant to the single family residences in Lake Bonavista</b> to preserve the nature of our community ... single-family homes, big trees, quiet/safe streets, ...
+This site is dedicated to the initiative to add a Restrictive Covenant to the property titles in Lake Bonavista to protect the character and nature of our community as one of single-family homes with big trees and quiet, safe streets.
 </p>
-
-
 
 <div style="text-align: center;margin-top: 0.5rem;margin-bottom: 1rem;">
     <a href="https://thecityofcalgary.maps.arcgis.com/apps/instant/lookup/index.html?appid=60d7b740704b454481c5a3ca40aae073"><img src="../img/LBRCGMAP.png "></a>
 </div>
 
 
-Several information seesions have been held including information from our lawyer [Curtis Marble; Carbert Waite LLP](https://carbertwaite.com/calgary-lawyers/curtis-marble/) who is working with several Calgary communities on their RC initiatives
+Several information seesions have been held including information from our lawyer [Curtis Marble; Carbert Waite LLP](https://carbertwaite.com/calgary-lawyers/curtis-marble/) who is working with several Calgary communities on their RC initiatives.
 
 <p align="center">
     <object data="../docs/InfoSlides.pdf" type="application/pdf" width="100%" height="460px">
@@ -79,7 +77,7 @@ Several information seesions have been held including information from our lawye
     </object>
  </p>
 
- We are a group of Lake Bonavista community members have retained legal counsel <a href="https://carbertwaite.com/">Carbert Waite LLP</a> who have drafted the proposed Restrictive Covenant for property owners of Lake Bonavista.
+We are a group of concerned community members who have retained legal counsel from [Carbert Waite LLP](https://carbertwaite.com/) to draft the Restrictive Covenant (RC) for property owners of Lake Bonavista. Several information sessions have been held with presentations from our lawyer, [Curtis Marble](https://carbertwaite.com/calgary-lawyers/curtis-marble/) who is also working with several other Calgary communities on their RC initiatives. The following slides are from these information sessions.
 
 
 ---
@@ -87,11 +85,10 @@ Several information seesions have been held including information from our lawye
 
 
 ## Call to Action
-* Sign-up to add the Covenant to your title (cost $500) by [following these instructions.](../faq#rcsign)
-* Volunteer to help spread the word by being a ‘Block Captain’ for your street by [filling out this form](../block) the list of streets that have Block Captains can be found [here](../contact#block)
+* [Sign-up to add the Covenant to your title (cost $500)](../faq#rcsign)
+* [Volunteer to help spread the word by being a ‘Block Captain’ for your street.](../block) The list of streets that have Block Captains can be found [here](../contact#block)
 * Spread the word to your friends, neighbours and everyone you know in Lake Bonavista
-* Sign-up for our mailing list by
- [filling out this form](../mailinglist)
+* [Sign-up for our mailing list ](../mailinglist)
 
 
 ---
