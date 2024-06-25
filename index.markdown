@@ -55,7 +55,7 @@ blockquote {
 
 
 
-p align="center">
+<p align="center">
   The City of Calgary has recently approved
     <a href="https://newsroom.calgary.ca/city-council-approves-citywide-rezoning-with-amendments-in-response-to-calgarys-housing-crisis"> Blanket R-CG Rezoning</a> for the majority of housing in Calgary. Lake Bonavista has been rezoned to <a href="https://www.calgary.ca/content/dam/www/pda/pd/publishingimages/current-projects/R-CG-residential-grade-oriented.pdf">R-CG</a> effective August 6, 2024.
 </p>
