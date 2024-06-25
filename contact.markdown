@@ -106,7 +106,7 @@ The following street have volunteer Block Captains:
 | Lake Wapta Rise SE | |
 | Lake Wood Place SE | |
 
-If you you would like to be connected with your block captain or volunteer to be a block captain email [BonavistaRC@gmail.com](mailto:BonavistaRC@gmail.com)
+If you you would like to be connected with your Block Captain email [BonavistaRC@gmail.com](mailto:BonavistaRC@gmail.com) or [Volunteer to be a Block Captain.](../block)
 
 
 
