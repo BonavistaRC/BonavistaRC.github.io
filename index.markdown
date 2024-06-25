@@ -68,17 +68,13 @@ This site is dedicated to the initiative to add a Restrictive Covenant to the pr
     <a href="https://thecityofcalgary.maps.arcgis.com/apps/instant/lookup/index.html?appid=60d7b740704b454481c5a3ca40aae073"><img src="../img/LBRCGMAP.png "></a>
 </div>
 
-
-Several information seesions have been held including information from our lawyer [Curtis Marble; Carbert Waite LLP](https://carbertwaite.com/calgary-lawyers/curtis-marble/) who is working with several Calgary communities on their RC initiatives.
+We are a group of concerned community members who have retained legal counsel from [Carbert Waite LLP](https://carbertwaite.com/) to draft the Restrictive Covenant (RC) for property owners of Lake Bonavista. Several information sessions have been held with presentations from our lawyer, [Curtis Marble](https://carbertwaite.com/calgary-lawyers/curtis-marble/) who is also working with several other Calgary communities on their RC initiatives. The following slides are from these information sessions.
 
 <p align="center">
     <object data="../docs/InfoSlides.pdf" type="application/pdf" width="100%" height="460px">
       <p>Unable to display PDF file. <a href="../docs/InfoSlides.pdf">Download</a></p>
     </object>
  </p>
-
-We are a group of concerned community members who have retained legal counsel from [Carbert Waite LLP](https://carbertwaite.com/) to draft the Restrictive Covenant (RC) for property owners of Lake Bonavista. Several information sessions have been held with presentations from our lawyer, [Curtis Marble](https://carbertwaite.com/calgary-lawyers/curtis-marble/) who is also working with several other Calgary communities on their RC initiatives. The following slides are from these information sessions.
-
 
 ---
 
