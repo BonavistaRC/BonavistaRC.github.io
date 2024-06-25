@@ -78,8 +78,6 @@ We are a group of concerned community members who have retained legal counsel fr
 
 ---
 
-
-
 ## Call to Action
 * [Sign-up to add the Covenant to your title (cost $500)](../faq#rcsign)
 * [Volunteer to help spread the word by being a ‘Block Captain’ for your street.](../block) The list of streets that have Block Captains can be found [here](../contact#block)
