@@ -119,7 +119,7 @@ The general goal of the Restrictive Covenant for Lake Bonavista is to maintain t
 The Restrictive Covenant: 
 
   * Restricts lots to *one Single  Detached  Dwelling*  may be  erected on  each  lots. 
-  * It does not restrict one  Single  Detached  Dwelling  from  being   built   on  two   contiguous Lots
+  * It does not restrict one  Single  Detached  Dwelling  from  being   built   on  two   contiguous lots
   * It allows Secondary Suites in the basement or above/in a garage.
   * Applies to the lot for 75 years regardless of who owns the property 
   * It does not restrict renovations to existing homes or tearing down and rebuilding a new residence for your family as long as it is a single family home. These will be Subject to compliance with the City’s building restriction requirements re setbacks, height, etc., you retain the same freedom as you have today in this regard. 
@@ -163,12 +163,11 @@ A group of Lake Bonavista community members have retained legal counsel [Carbert
 
 **Q: How can I help?**
 
-* Volunteer to be a ‘Block Captain’ for your street by [filling out this form](../block) the list of streets that have Block Captains can be found [here](../contact#block)
-  * Communicate information and action plan to neighbours
-  * Build a contact list for your street
+* [Sign-up to add the Covenant to your title (cost $500)](../faq#rcsign)
+* [Volunteer to help spread the word by being a ‘Block Captain’ for your street.](../block) The list of streets that have Block Captains can be found [here](../contact#block)
 * Spread the word to your friends, neighbours and everyone you know in Lake Bonavista
-* Sign-up for our mailing list by
- [filling out this form](../mailinglist)
+* [Sign-up for our mailing list ](../mailinglist)
+
 
 
 
