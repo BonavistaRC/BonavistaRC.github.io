@@ -95,7 +95,7 @@ We are a group of concerned community members who have retained legal counsel fr
 <p align="center"><b>Passcode: e8v67S</b></p>
 
 
- The purpose of this virtual meeting is to outline the strategy of using a Restrictive Covenant to preserve the single family home nature of Lake Bonavista. This meeting will be led by community members and the legal counsel retained to represent us. Our lawyer,  [Curtis Marble](https://carbertwaite.com/calgary-lawyers/curtis-marble/)of [Carbert Waite LLP](ttps://carbertwaite.com/), will take questions at the end of the presentation.
+ The purpose of this virtual meeting is to outline the strategy of using a Restrictive Covenant to preserve the single family home nature of Lake Bonavista. This meeting will be led by community members and the legal counsel retained to represent us. Our lawyer,  [Curtis Marble](https://carbertwaite.com/calgary-lawyers/curtis-marble/) of [Carbert Waite LLP](ttps://carbertwaite.com/), will take questions at the end of the presentation.
 
 This meeting will take place on Microsoft Teams. You may wish to download the app ahead of time, or visit [Mircrosft Teams](https://teams.microsoft.com) in your web browser and use: 
 
