@@ -112,6 +112,8 @@ More Information R-CG zoning:
 
 [Overview of a Restrictive Covenant from Carbert Waite LLP](/docs/RCOverview.pdf)
 
+[Video on Restrictive Covenant Calgary and  Lake Bonavista](https://www.youtube.com/watch?v=xNtjcQq3iCI&t=657s)
+
 **Q: What is the Restrictive Covenant for Lake Bonavista proposing?**
 
 The general goal of the Restrictive Covenant for Lake Bonavista is to maintain the current nature of our community — single-family homes, big trees, quiet/safe streets, …
@@ -139,21 +141,9 @@ The exact split is dependent on each homeowners specific situation.
 
 ###### **Q: How do I add the Restrictive Covenant?** {#rcsign}
  
-There are three steps to register the Restrictive Covenant on your property:
+{% include steps_to_signup.md %}
 
-
-1. [Fill out this form](../signup) to provide us with:
-* Name(s) on title
-* Street address with postal code
-* Phone number
-* Are you legally married? Yes/No. If you are divorced or your spouse has passed away please let us know that too.
-2. Then you will receive an email with a copy of the agreement, File number, Payment Information, and dates of upcoming Signing Meetings.
-3. Attend a Signing Meeting
-* Bring ID
-* Spouses must attend signing together
-
-We will confirm your signing date once steps 1 & 2 are complete
-
+See the [homepage](/) for the information on the next signing meeting
 
 ## Other {#other}
 
@@ -163,12 +153,7 @@ A group of Lake Bonavista community members have retained legal counsel [Carbert
 
 **Q: How can I help?**
 
-* [Sign-up to add the Covenant to your title (cost $500)](../faq#rcsign)
-* [Volunteer to help spread the word by being a ‘Block Captain’ for your street.](../block) The list of streets that have Block Captains can be found [here](../contact#block)
-* Spread the word to your friends, neighbours and everyone you know in Lake Bonavista
-* [Sign-up for our mailing list ](../mailinglist)
-
-
+{% include call_to_action.md %}
 
 
 **Q: Where can I find the information presented in the Last information session?**

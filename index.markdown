@@ -60,6 +60,7 @@ blockquote {
     <a href="https://newsroom.calgary.ca/city-council-approves-citywide-rezoning-with-amendments-in-response-to-calgarys-housing-crisis"> Blanket R-CG Rezoning</a> for the majority of housing in Calgary. Lake Bonavista has been rezoned to <a href="https://www.calgary.ca/content/dam/www/pda/pd/publishingimages/current-projects/R-CG-residential-grade-oriented.pdf">R-CG</a> effective August 6, 2024.
 </p>
 
+
 <p align="center">
 This site is dedicated to the initiative to add a Restrictive Covenant to the property titles in Lake Bonavista to protect the character and nature of our community as one of single-family homes with big trees and quiet, safe streets.
 </p>
@@ -76,28 +77,32 @@ We are a group of concerned community members who have retained legal counsel fr
     </object>
  </p>
 
----
 
+<p align="center">
+The following is a video on Restrictive Covenant Calgary and Lake Bonavista
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xNtjcQq3iCI?si=hJ8QfcO0rejGwuax" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+---
 ## Call to Action
-* [Sign-up to add the Covenant to your title (cost $500)](../faq#rcsign)
-* [Volunteer to help spread the word by being a ‘Block Captain’ for your street.](../block) The list of streets that have Block Captains can be found [here](../contact#block)
-* Spread the word to your friends, neighbours and everyone you know in Lake Bonavista
-* [Sign-up for our mailing list ](../mailinglist)
-
+{% include call_to_action.md %}
 
 ---
+<h2 align="center" id="meeting">Restrictive Covenant Signing Meeting</h2>
+
+<p align="center" style="margin:0"><b>Wednesday, July 24 @ 7pm MDT</b></p>
+
+<p align="center" style="margin:0"><b>Holy Nativity Anglican Church</b></p>
+
+<p align="center" style="margin:0"><a href="https://maps.app.goo.gl/NJ5JtQFouTHuFFLN6">12707 Bonaventure Drive SE</a></p>
 
 
-<h2 align="center">Restrictive Covenant Information Meeting - Virtual</h2>
-<p align="center" style="margin:0"><b>Tuesday, June 25 @ 7pm MT</b></p>
-<p align="center" style="margin:0"><b><a href="https://teams.microsoft.com">Mircrosft Teams</a></b></p>
-<p align="center" style="margin:0"><b>Meeting ID: 241 076 488 354</b></p>
-<p align="center"><b>Passcode: e8v67S</b></p>
+This signing meeting is for homeowners who have completed Steps 1 & 2 of the RC sign-up process by **July 10th, 2024**. Spouses must attend the signing together and bring photo ID. You are welcome to read the RC agreement and waiver in advance of your signing (both can be found on this website).
+
+{% include steps_to_signup.md %}
 
 
- The purpose of this virtual meeting is to outline the strategy of using a Restrictive Covenant to preserve the single family home nature of Lake Bonavista. This meeting will be led by community members and the legal counsel retained to represent us. Our lawyer,  [Curtis Marble](https://carbertwaite.com/calgary-lawyers/curtis-marble/) of [Carbert Waite LLP](ttps://carbertwaite.com/), will take questions at the end of the presentation.
 
-This meeting will take place on Microsoft Teams. You may wish to download the app ahead of time, or visit [Mircrosft Teams](https://teams.microsoft.com) in your web browser and use: 
 
-<p align="center" style="margin:0"><b>Meeting ID: 241 076 488 354</b></p>
-<p align="center"><b>Passcode: e8v67S</b></p>
+
+
+
