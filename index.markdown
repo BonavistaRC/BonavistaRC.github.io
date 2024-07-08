@@ -62,11 +62,11 @@ blockquote {
 
 
 <p align="center">
-This site is dedicated to the initiative to add a Restrictive Covenant to the property titles in Lake Bonavista to protect the character and nature of our community as one of single-family homes with big trees and quiet, safe streets. <a href="../essay">More Info on the rationale behind ths effort will be published in the August 2024 Bonavista Bugle</a>
+This site is dedicated to the initiative to add a Restrictive Covenant to the property titles in Lake Bonavista to protect the character and nature of our community as one of single-family homes with big trees and quiet, safe streets. <a href="../essay">More Information about the rationale behind ths effort will be published in the August 2024 Bonavista Bugle</a>
 </p>
 
 <div style="text-align: center;margin-top: 0.5rem;margin-bottom: 1rem;">
-    <a href="https://thecityofcalgary.maps.arcgis.com/apps/instant/lookup/index.html?appid=60d7b740704b454481c5a3ca40aae073"><img src="../img/LBRCGMAP.png "></a>
+    <a href="https://thecityofcalgary.maps.arcgis.com/apps/instant/lookup/index.html?appid=60d7b740704b454481c5a3ca40aae073"><img style="max-width: 100%;" src="../img/LBRCGMAP.png "></a>
 </div>
 
 We are a group of concerned community members who have retained legal counsel from [Carbert Waite LLP](https://carbertwaite.com/) to draft the Restrictive Covenant (RC) for property owners of Lake Bonavista. Several information sessions have been held with presentations from our lawyer, [Curtis Marble](https://carbertwaite.com/calgary-lawyers/curtis-marble/) who is also working with several other Calgary communities on their RC initiatives. The following slides are from these information sessions.
