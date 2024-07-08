@@ -64,7 +64,7 @@ You may join our mailing list by [filling out this form](../mailinglist)
 
 ### Add the Restrictive Covenant
 
-Sign-up to add the Covenant to your title (cost $500) by [following these instructions.](../faq#rcsign)
+{% include steps_to_signup.md %}
 
 ### Block Captains {#block}
 

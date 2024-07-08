@@ -62,7 +62,7 @@ blockquote {
 
 
 <p align="center">
-This site is dedicated to the initiative to add a Restrictive Covenant to the property titles in Lake Bonavista to protect the character and nature of our community as one of single-family homes with big trees and quiet, safe streets.
+This site is dedicated to the initiative to add a Restrictive Covenant to the property titles in Lake Bonavista to protect the character and nature of our community as one of single-family homes with big trees and quiet, safe streets. <a href="../essay">More Info on the rationale behind ths effort will be published in the August 2024 Bonavista Bugle</a>
 </p>
 
 <div style="text-align: center;margin-top: 0.5rem;margin-bottom: 1rem;">
