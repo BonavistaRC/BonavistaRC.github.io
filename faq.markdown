@@ -164,19 +164,17 @@ The exact split is dependent on each homeowners specific situation. [Signup for 
  
 {% include steps_to_signup.md %}
 
-See the [homepage](/) for the information on the next signing meeting
-
-**Q: Who started the RC initiative in Lake Bonavista and why?**
-
-The RC initiative was started by local, concerned community members - your neighbours. If you have been following the [City’s recent approval of R-CG blanket rezoning](https://newsroom.calgary.ca/city-council-approves-citywide-rezoning-with-amendments-in-response-to-calgarys-housing-crisi), you may share the same concern about what could be built beside you in the future. The RC initiative is a strategy to maintain the single family nature of Lake Bonavista with big trees and quiet, safe streets. This small grassroots group of neighbours have held several information sessions (in-person and virtual). Note these community meetings are very different and separate from the info sessions held at LBCA by Ward 14 Councillor Peter Deomong prior to the blanket rezoning decision. The RC initiative is run by volunteer community members (with a lawyer) - they are not politicians. 
-
-[More Information about the rationale behind ths effort will be published in the August 2024 Bonavista Bugle](../essay)
+See the [homepage](/) for the information on the next signing meeting.
 
 ## Other {#other}
 
 **Q: Who is organizing this effort?**
 
-A group of Lake Bonavista community members have retained legal counsel [Carbert Waite LLP](https://carbertwaite.com/) and have started a Restrictive Covenant initiative to help maintain the nature of our community --- ***single-family homes, big trees, quiet/safe streets, ...*** --- An RC is the only legal option for keeping our neighbourhood the way it is today.
+A group of Lake Bonavista community members have retained legal counsel [Carbert Waite LLP](https://carbertwaite.com/) and have started a Restrictive Covenant initiative to help maintain the nature of our community --- ***single-family homes, big trees, quiet/safe streets, ...*** If you have been following the [City’s recent approval of R-CG blanket rezoning](https://newsroom.calgary.ca/city-council-approves-citywide-rezoning-with-amendments-in-response-to-calgarys-housing-crisi), you may share the same concern about what could be built beside you in the future.
+
+ This small grassroots group of neighbours have held several information sessions (in-person and virtual). Note these community meetings are very different and separate from the info sessions held at LBCA by Ward 14 Councillor Peter Deomong prior to the blanket rezoning decision. The RC initiative is run by volunteer community members ([with a lawyer](https://carbertwaite.com/calgary-lawyers/curtis-marble/)) - they are not politicians. 
+
+[More Information about the rationale behind this effort was published in the August 2024 Bonavista Bugle](../essay)
 
 **Q: How can I help?**
 
