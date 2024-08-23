@@ -38,8 +38,12 @@ blockquote {
 </html>
 
 
-# Lake Bonavista Restrictive Covenant (RC) Initiative
+# Lake Bonavista RC Sign-Up
+
+If you are ready to proceed with adding the Restrictive Covenant, please fill out the form below and attend the following Signing Meeting:
+
+{% include signup_meeting_details.md %}
 
 ---
 
- <iframe style="margin-left: auto; margin-left: auto;" src="https://docs.google.com/forms/d/e/1FAIpQLSdRAIsx0ZjF5GeYl8rH-OIE_jySbKBjr_5bRACUvqoFxZ_qTg/viewform?embedded=true" width="640" height="1054" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+ <iframe style="text-align: center;width: 100%;" src="https://docs.google.com/forms/d/e/1FAIpQLSdRAIsx0ZjF5GeYl8rH-OIE_jySbKBjr_5bRACUvqoFxZ_qTg/viewform?embedded=true" width="640" height="1054" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

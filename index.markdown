@@ -87,17 +87,8 @@ The following is a video on Restrictive Covenant Calgary and Lake Bonavista
 {% include call_to_action.md %}
 
 ---
-
 <h2 align="center" id="meeting">Restrictive Covenant Signing Meeting</h2>
-
-<p align="center" style="margin:0"><b>Tuesday, October 1 @ 7pm MDT</b></p>
-
-<p align="center" style="margin:0"><b>Holy Nativity Anglican Church</b></p>
-
-<p align="center" style="margin:0"><a href="https://maps.app.goo.gl/NJ5JtQFouTHuFFLN6">12707 Bonaventure Drive SE</a></p>
-
-
-This signing meeting is for homeowners who have completed Steps 1 & 2 of the RC sign-up process by **Sept 17th, 2024**. Spouses must attend the signing together and bring photo ID. You are welcome to read the RC agreement and waiver in advance of your signing (both can be found on this website).
+{% include signup_meeting_details.md %}
 
 
 {% include steps_to_signup.md %}
