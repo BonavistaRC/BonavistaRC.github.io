@@ -43,5 +43,5 @@ blockquote {
 
 ---
 
-<iframe tyle="margin-left: auto; margin-left: auto;" src="https://docs.google.com/forms/d/e/1FAIpQLSe4oRGtJ4jyZiGOgriv39SB7ISvf-8Zt-TxA-k2jSN2krWOlA/viewform?embedded=true" width="640" height="1439" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe style="text-align: center;width: 100%;" src="https://docs.google.com/forms/d/e/1FAIpQLSfSbFb8ZPQ8Xi3WJWuVULctGdRqPFBjL7ZLQlyCyzBxQlOKrg/viewform?usp=sf_link" width="640" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 

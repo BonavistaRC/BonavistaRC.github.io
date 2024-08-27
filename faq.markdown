@@ -196,6 +196,6 @@ Here is the most recent presentation:
 
 **Q: How can I get more information?**
 
-Please see our [Contact Us](/contact) page for information on how to get General information, Block Captain information, sign-up for mailing list, etc.
+Please see our [Contact Us](/contact) page for information on how to get General information, Block Captain information, [sign-up for the mailing list](../mailinglist), etc.
 
 
