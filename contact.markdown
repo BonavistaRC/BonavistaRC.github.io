@@ -55,7 +55,7 @@ td {
 
 ### General Information
 
-Please email [BonavistaRC@gmail.com](mailto:BonavistaRC@gmail.com) for additional information.
+Please email [info@bonavistarc.com](mailto:info@bonavistarc.com) for additional information.
 
 ### Sign-up for Updates
 
@@ -106,7 +106,7 @@ The following street have volunteer Block Captains:
 | Lake Wapta Rise SE | |
 | Lake Wood Place SE | |
 
-If you you would like to be connected with your Block Captain email [BonavistaRC@gmail.com](mailto:BonavistaRC@gmail.com) or [Volunteer to be a Block Captain.](../block)
+If you you would like to be connected with your Block Captain email [info@bonavistarc.com](mailto:info@bonavistarc.com) or [Volunteer to be a Block Captain.](../block)
 
 
 
