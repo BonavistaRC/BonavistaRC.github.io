@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RC Sign-up
+title: RC Sign Up
 ---
 
 
@@ -38,9 +38,9 @@ blockquote {
 </html>
 
 
-# Lake Bonavista RC Sign-Up
+# Lake Bonavista RC Sign Up
 
-If you are ready to proceed with adding the Restrictive Covenant (cost $500), please fill out the form below and attend the following Signing Meeting:
+If you are ready to proceed with adding the Restrictive Covenant, please fill out the form below and attend the following Signing Meeting:
 
 {% include signup_meeting_details.md %}
 

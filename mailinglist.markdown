@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RC Sign-up
+title: Mailing List Sign Up
 ---
 
 
@@ -39,7 +39,7 @@ blockquote {
 
 
 # Lake Bonavista Restrictive Covenant (RC) Initiative
-# Mailing List Sign-up
+# Mailing List Sign Up
 
 ---
 

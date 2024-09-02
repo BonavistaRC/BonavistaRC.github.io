@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RC Sign-up
+title: Block Captain Sign Up
 ---
 
 
@@ -39,7 +39,7 @@ blockquote {
 
 
 # Lake Bonavista Restrictive Covenant (RC) Initiative
-# Block Captian Sign-up
+# Block Captian Sign Up
 
 ---
 

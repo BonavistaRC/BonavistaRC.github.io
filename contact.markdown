@@ -57,7 +57,7 @@ td {
 
 Please email [info@bonavistarc.com](mailto:info@bonavistarc.com) for additional information.
 
-### Sign-up for Updates
+### Sign Up for Updates
 
 You may join our mailing list by [filling out this form](../mailinglist)
 
