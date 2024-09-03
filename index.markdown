@@ -136,7 +136,6 @@ Since the new zoning has come into effect, the following have been proposed in n
 ---
 
 <h2 align="center" id="meeting">Restrictive Covenant Signing Meeting</h2>
-{% include signup_meeting_details.md %}
 {% include steps_to_signup.md %}
 
 <div class="col-md text-center" style="margin-bottom: 1rem;margin-top: 2rem;">
