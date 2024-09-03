@@ -4,7 +4,6 @@ title: Lake Bonavista Restrictive Covenant (RC) Initiative
 ---
 
 
-
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -53,47 +52,96 @@ blockquote {
 
 ---
 
+<h2 align="center" id="meeting">Restrictive Covenant Information Meeting</h2>
+
+<p align="center" style="margin:0;padding-left: 0;"><b>Sunday, September 15 at 2:30pm</b> </p>
+<p align="center" style="margin:0;padding-left: 0;">Lake Bonavista Community Association Gym</p>
+<p align="center" style="padding-left: 0;"><a href="https://maps.app.goo.gl/WCCgQA6R6j8BrGVT8">1401 Acadia Dr SE</a></p>
+
+---
 
 
 <p align="center">
-  The City of Calgary has recently approved
-    <a href="https://newsroom.calgary.ca/city-council-approves-citywide-rezoning-with-amendments-in-response-to-calgarys-housing-crisis"> Blanket R-CG Rezoning</a> for the majority of housing in Calgary. Lake Bonavista has been rezoned to <a href="https://www.calgary.ca/content/dam/www/pda/pd/publishingimages/current-projects/R-CG-residential-grade-oriented.pdf">R-CG</a> effective August 6, 2024.
+This site is dedicated to the initiative to <b>add a Restrictive Covenant to the property titles in Lake Bonavista</b> to protect the character and nature of our community as one of single-family homes with big trees and quiet, safe streets. <a href="../essay">More Information about the rationale behind ths effort was published in the August 2024 Bonavista Bugle</a>
 </p>
 
 
 <p align="center">
-This site is dedicated to the initiative to add a Restrictive Covenant to the property titles in Lake Bonavista to protect the character and nature of our community as one of single-family homes with big trees and quiet, safe streets. <a href="../essay">More Information about the rationale behind ths effort was published in the August 2024 Bonavista Bugle</a>
+  As of August 6, 2024
+    <a href="https://www.calgary.ca/content/dam/www/pda/pd/publishingimages/current-projects/R-CG-residential-grade-oriented.pdf"> Blanket R-CG Rezoning</a> for the majority of housing in Calgary is in effect, including Lake Bonavista.
 </p>
 
-<div style="text-align: center;margin-top: 0.5rem;margin-bottom: 1rem;">
-    <a href="https://thecityofcalgary.maps.arcgis.com/apps/instant/lookup/index.html?appid=60d7b740704b454481c5a3ca40aae073"><img style="max-width: 100%;" src="../img/LBRCGMAP.png "></a>
+<div style="text-align: center;margin-top: 0.5rem;margin-bottom: 1rem; padding-left: 2rem;">
+    <a href="https://www.calgary.ca/content/dam/www/pda/pd/publishingimages/current-projects/R-CG-residential-grade-oriented.pdf"><img style="max-width: 100%;" src="../img/50ft.png "></a>
+</div>
+<p align="center" style="padding-left: 0;font-size: .75rem;font-weight: 300;">RC-G on a typical 50ft lot</p>
+
+Since the new zoning has come into effect, the following have been proposed in neighbouring communities:
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <p align="center" style="margin:0;padding-left: 0;"><b>Queensland</b></p>
+        <p align="center" style="padding-left: 0;font-size: .75rem;font-weight: 300;">652 Queensland Dr SE</p>
+      <p align="center"><a href="https://dmap.calgary.ca/?p=DP2024-04842"><img style="max-width: 100%;" src="../img/Queensland2.png "></a></p>
+      <p align="center" style="margin:0;padding-left: 0;"><a href="https://dmap.calgary.ca/?p=DP2024-04842">Development Permit</a></p>
+      <p style="margin:0;padding-left: 0;font-size: .75rem;font-weight: 300;">Rowhouse Building (4 units), Secondary Suite (4 suites)</p>
+      <p style="margin:0;padding-left: 0;font-size: .75rem;font-weight: 300;">3 storey (approximately 10 metres) in height</p>
+      <p align="center" style="padding-left: 0;"><a href="https://calgary.citynews.ca/2024/08/16/calgary-queensland-concerns-proposed-development/">City News Article</a></p>
+    </div>
+    <div class="col-sm">
+      <p align="center" style="margin:0;padding-left: 0;"><b>Lakeview</b></p>
+      <p align="center" style="padding-left: 0;font-size: .75rem;font-weight: 300;">2612 66 Ave SW</p>
+      <p align="center"><a href="https://dmap.calgary.ca/?p=DP2024-05408"><img style="max-width: 100%;" src="../img/Lakeview.png "></a></p>
+      <p align="center" style="margin:0;padding-left: 0;"><a href="https://dmap.calgary.ca/?p=DP2024-05408">Development Permit</a></p>
+      <p style="margin:0;padding-left: 0;font-size: .75rem;font-weight: 300;">Townhouse Building (4 units), Secondary Suite (4 suites), Accessory Residential Building (1 building, garage)</p>
+      <p style="padding-left: 0;font-size: .75rem;font-weight: 300;">2.5 storey (approximately 10 metres) in height</p>
+    </div>
+    <div class="col-sm">
+      <p align="center" style="margin:0;padding-left: 0;"><b>Braeside</b></p>
+      <p align="center" style="padding-left: 0;font-size: .75rem;font-weight: 300;">11027 Bradbury Dr SW</p>
+      <p align="center"><a href="https://dmap.calgary.ca/?p=DP2024-05289"><img style="max-width: 100%;" src="../img/Braeside.png "></a></p>
+      <p align="center" style="margin:0;padding-left: 0;"><a href="https://dmap.calgary.ca/?p=DP2024-05289">Development Permit</a></p>
+      <p style="margin:0;padding-left: 0;font-size: .75rem;font-weight: 300;">Rowhouse Building (4 units), Secondary Suite (4 suites)</p>
+      <p style="padding-left: 0;font-size: .75rem;font-weight: 300;">3 storey (approximately 10 metres) in height</p>
+    </div>
+  </div>
 </div>
 
-We are a group of concerned community members who have retained legal counsel from [Carbert Waite LLP](https://carbertwaite.com/) to draft the Restrictive Covenant (RC) for property owners of Lake Bonavista. Several information sessions have been held with presentations from our lawyer, [Curtis Marble](https://carbertwaite.com/calgary-lawyers/curtis-marble/) who is also working with several other Calgary communities on their RC initiatives. The following slides are from these information sessions.
+[Curtis Marble](https://carbertwaite.com/calgary-lawyers/curtis-marble/) from [Carbert Waite LLP](https://carbertwaite.com/) was retained to draft a [Restrictive Covenant (RC) ](../docs/RCJune102024-FINAL.pdf)for property owners of Lake Bonavista to prevent this type of development. [Curtis Marble](https://carbertwaite.com/calgary-lawyers/curtis-marble/) is also working with several other Calgary communities on their RC initiatives. 
 
-<p align="center">
-    <object data="../docs/InfoSlides.pdf" type="application/pdf" width="100%" height="460px">
-      <p>Unable to display PDF file. <a href="../docs/InfoSlides.pdf">Download</a></p>
-    </object>
- </p>
-
-
-<p align="center">
-The following is a video on Restrictive Covenant Calgary and Lake Bonavista
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xNtjcQq3iCI?si=hJ8QfcO0rejGwuax" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</p>
 ---
 ## Call to Action
-{% include call_to_action.md %}
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <div class="col-md text-center" style="margin-bottom: 1rem;margin-top: 2rem;">
+        <a class="button" href="../signup">Sign up for the<br>RC</a>
+      </div>
+    </div>
+    <div class="col-sm">
+      <div class="col-md text-center" style="margin-bottom: 1rem;margin-top: 2rem;">
+        <a class="button" href="../block">Volunteer to be a Block Captain</a>
+      </div>
+    </div>
+    <div class="col-sm">
+      <div class="col-md text-center" style="margin-bottom: 1rem;margin-top: 2rem;">
+        <a class="button" href="../mailinglist">Sign up our Mailing List</a>
+      </div>
+    </div>
+  </div>
+</div>
 
 ---
+
 <h2 align="center" id="meeting">Restrictive Covenant Signing Meeting</h2>
 {% include signup_meeting_details.md %}
-
-
 {% include steps_to_signup.md %}
 
-
+<div class="col-md text-center" style="margin-bottom: 1rem;margin-top: 2rem;">
+    <a class="button" href="../signup">Sign up for the RC</a>
+</div>
 
 
 
