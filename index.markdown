@@ -127,7 +127,7 @@ Since the new zoning has come into effect, the following have been proposed in n
     </div>
     <div class="col-sm">
       <div class="col-md text-center" style="margin-bottom: 1rem;margin-top: 2rem;">
-        <a class="button" href="../mailinglist">Sign up our Mailing List</a>
+        <a class="button" href="../mailinglist">Sign up for our Mailing List</a>
       </div>
     </div>
   </div>
