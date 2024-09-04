@@ -1,7 +1,7 @@
 There are **three steps** and a **$500 fee** to register the Restrictive Covenant on your property:
 
 
-1. **[Fill out this form](../signup)** to provide us with:
+1. **[Fill out this form](../signup)** to provide:
 * Name(s) on title
 * Street address with postal code
 * Phone number
