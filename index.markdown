@@ -54,7 +54,7 @@ blockquote {
 
 <h2 align="center" id="meeting">Restrictive Covenant Information Meeting</h2>
 
-<p align="center" style="margin-top: 0.5rem;padding-left: 0;">Thank you to the <b>over 200 people</b> everyone who attended the informatiion session at the <b>Lake Bonavista Community Association Gym</b> on <b>Sunday, September 15 at 2:30pm</b>!!</p>
+<p align="center" style="margin-top: 0.6rem;padding-left: 0;">Thank you to the <b>over 200 people</b> who attended the information session at the <b>LBCA Gym</b> on <b>Sunday, September 15 at 2:30pm</b>!!</p>
 
 
 
@@ -62,7 +62,7 @@ blockquote {
     <img style="max-width: 50%;" src="../img/crowd0915.jpg">
 </div>
 
-<p align="center" style="margin-top: 0.5rem;padding-left: 0;">
+<p align="center" style="margin-top: 0.6rem;padding-left: 0;">
   <a href="../docs/InfoSlides0915.pdf">Slides from the Presentation</a>
 </p>
 ---
