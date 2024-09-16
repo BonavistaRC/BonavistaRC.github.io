@@ -54,10 +54,17 @@ blockquote {
 
 <h2 align="center" id="meeting">Restrictive Covenant Information Meeting</h2>
 
-<p align="center" style="margin:0;padding-left: 0;"><b>Sunday, September 15 at 2:30pm</b> </p>
-<p align="center" style="margin:0;padding-left: 0;">Lake Bonavista Community Association Gym</p>
-<p align="center" style="padding-left: 0;"><a href="https://maps.app.goo.gl/WCCgQA6R6j8BrGVT8">1401 Acadia Dr SE</a></p>
+<p align="center" style="margin-top: 0.5rem;padding-left: 0;">Thank you to the <b>over 200 people</b> everyone who attended the informatiion session at the <b>Lake Bonavista Community Association Gym</b> on <b>Sunday, September 15 at 2:30pm</b>!!</p>
 
+
+
+<div style="text-align: center;margin-top: 0.5rem;margin-bottom: 1rem;">
+    <img style="max-width: 50%;" src="../img/crowd0915.jpg">
+</div>
+
+<p align="center" style="margin-top: 0.5rem;padding-left: 0;">
+  <a href="../docs/InfoSlides0915.pdf">Slides from the Presentation</a>
+</p>
 ---
 
 
