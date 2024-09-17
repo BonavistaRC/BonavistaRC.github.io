@@ -156,7 +156,69 @@ Since the new zoning has come into effect, the following have been proposed in n
     <a class="button" href="../signup">Sign up for the RC</a>
 </div>
 
+___
 
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+<p align="center" style="margin:0;padding-left: 0;"><i>“As a realtor for 23 years, now retired, I sold
+many homes in our community. My big emphasis
+was always to protect our lake, after all, it is the
+lake that gives you value in your property. We all
+should be proud of the community we live in and
+need to protect what we purchased. I strongly
+encourage you to consider having an RC on
+your property for the benefit of all.”</i><br><b>- Beverly T, Retired Realtor</b></p>
+    </div>
+    <div class="col-sm">
+      <p align="center" style="margin:0;padding-left: 0;"><i>“If I’m not willing to put an RC on my property to
+help protect my street, how can I expect my
+neighbours to follow suit? It’s a team effort.”</i><br><b>- Lisa M, Retired Teacher</b></p>
+    </div>
+    <div class="col-sm">
+       <p align="center" style="margin:0;padding-left: 0;"><i>““My wife and I signed the RC because we wanted to
+step up and do what we could do to protect and
+maintain the quality of life in Lake Bonavista that we
+have known and loved since 1991."</i><br><b>- Dr Roger D, Retired Economist</b></p>  
+    </div>
+  </div>
+  <div class="row" style="margin-top:2em;">
+    <div class="col-sm" >
+           <p align="center" style="margin:0;padding-left: 0;"><i>““I signed the RC as I was very upset that city council went
+against the wishes of the majority of residents of the city they
+supposedly represent. A single-family lot could be
+redeveloped to accommodate up to 12 families, with 1/2 a
+parking spot per unit, no mention of where the new 36 bins
+would be placed. This RC initiative would make such
+redevelopment very difficult. In order to ask my neighbours
+to sign the RC, I need to do so as well. Judging by the
+animosity towards this rezoning shown during the meeting at
+the rec centre, this gives the community a way to fight
+back.”</i><br><b>- Nora B</b></p>  
+  </div>
+    <div class="col-sm">
+           <p align="center" style="margin:0;padding-left: 0;"><i>“My wife moved into long-term care two
+years ago and I don’t know how much
+longer I am going to be in my house. I am
+signing the RC for my neighbours so they
+don’t have to face the uncertainty of what
+could eventually happen with my property
+when I no longer live here.”</i><br><b>- Herbert S, Longtime Homeowner</b></p>
+    </div>
+    <div class="col-sm">
+      <p align="center" style="margin:0;padding-left: 0;"><i>““My wife and I moved to Lake Bonavista in early 2023. We love the neighborhood and moving to this community was largely because we
+wanted to Iive in this community. We enjoy the wide streets, large lots and weekends at the lake in the summer and winter. We wanted to be
+in an area where our child could have a sense of community, similar to what we enjoyed as children. We moved from a nearby
+neighbourhood which has many multi-family homes mixed in with single family homes. The difference in the community here versus our
+prior neighbourhood is night and day. ... There are parts of the city where increasing density makes sense but for our lake community it does not fit in. We believe having an oasis of
+single-family homes with an ever-busier City of Calgary will actually drive these house prices up, not limit an ultimate sale price. If a resource
+(like single family homes with large lots) becomes even more rare,”</i><br><b>- Dan T, New Homeowner</b></p>
+    </div>
+  </div>
+</div>
 
+<p align="center" style="margin-top: 0.6rem;padding-left: 0;">
+  <a href="../docs/Testimonials0915.pdf">See More Testimonials</a>
+</p>
 
 
