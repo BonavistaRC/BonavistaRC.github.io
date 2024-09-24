@@ -6,6 +6,9 @@ title: News
 ## In the News
 <br>
 
+**CTV News:** [Lake Bonavista residents fight blanket rezoning with 'restrictive covenants](https://calgary.ctvnews.ca/lake-bonavista-residents-fight-blanket-rezoning-with-restrictive-covenants-1.7049051)
+ <p style="padding-left: 3em;font-size: .75rem;font-weight: 300;margin-top: 0;">A group of residents in the southeast Calgary community of Lake Bonavista are hoping their latest attempt to stop the city from ushering in blanket rezoning will fend off developers from looking to pave change in their community</p>
+
 **CBC News:** [Another Calgary community turns to restrictive covenants with blanket rezoning in effect](https://www.cbc.ca/news/canada/calgary/restrictive-covenants-lake-bonavista-1.7327475)
  <p style="padding-left: 3em;font-size: .75rem;font-weight: 300;margin-top: 0;">Lake Bonavista residents launch initiative to prevent multi-family developments</p>
 
