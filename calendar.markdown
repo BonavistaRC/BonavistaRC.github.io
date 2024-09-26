@@ -1,6 +1,6 @@
 ---
 layout: default
-title: News
+title: Booking
 ---
 
 # October 1, 2024 RC Signing Event
