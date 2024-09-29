@@ -1,9 +1,9 @@
 
 
-**Calgary Hearld:** [Nelson: City council discovers we're not sheep after all](https://calgaryherald.com/opinion/columnists/nelson-city-council-discovers-were-not-sheep)
+**Calgary Herald:** [Nelson: City council discovers we're not sheep after all](https://calgaryherald.com/opinion/columnists/nelson-city-council-discovers-were-not-sheep)
  <p style="padding-left: 3em;font-size: .75rem;font-weight: 300;margin-top: 0;">Step by step, the Calgary we used to know, with its sense of shared community, disappears</p>
 
-**Calgary Hearld:** [Homeowners against blanket zoning turn to restrictive covenants to block redevelopment](https://calgaryherald.com/news/calgary-homeowners-against-rezoning-use-restrictive-covenants)
+**Calgary Herald:** [Homeowners against blanket zoning turn to restrictive covenants to block redevelopment](https://calgaryherald.com/news/calgary-homeowners-against-rezoning-use-restrictive-covenants)
  <p style="padding-left: 3em;font-size: .75rem;font-weight: 300;margin-top: 0;">A growing number of households in Calgary are registering restrictive covenants on their land titles, pushing back against new city zoning regulations that allow for higher density in older communities.</p>
 
 
