@@ -54,17 +54,10 @@ blockquote {
 
 <h2 align="center" id="meeting">Restrictive Covenant Information Meeting</h2>
 
-<p align="center" style="margin-top: 0.6rem;padding-left: 0;">Thank you to the <b>over 200 people</b> who attended the information session at the <b>LBCA Gym</b> on <b>Sunday, September 15 at 2:30pm</b>!!</p>
+<p align="center" style="margin:0;padding-left: 0;"><b>Tuesday, November 5 at 7pm</b> </p>
+<p align="center" style="margin:0;padding-left: 0;">Google Meet</p>
+<p align="center" style="padding-left: 0;"><b>Meeting Link: </b><a href="https://meet.google.com/wwe-krnz-uua">meet.google.com/wwe-krnz-uua</a></p>
 
-
-
-<div style="text-align: center;margin-top: 0.5rem;margin-bottom: 1rem;">
-    <img style="max-width: 50%;" src="../img/crowd0915.jpg">
-</div>
-
-<p align="center" style="margin-top: 0.6rem;padding-left: 0;">
-  <a href="../docs/InfoSlides0915.pdf">Slides from the Presentation</a>
-</p>
 ---
 
 
@@ -148,12 +141,8 @@ Since the new zoning has come into effect, the following have been proposed in n
 ---
 
 <h2 align="center" id="meeting">Restrictive Covenant Signing Meeting</h2>
-<p align="center" style="margin:0;padding-left: 0;"><b>Tuesday, October 1 @ 7pm</b> </p>
-<p align="center" style="margin:0;padding-left: 0;"><b>Holy Nativity Anglican Church</b></p>
-<p align="center" style="padding-left: 0;"><a href="https://maps.app.goo.gl/NJ5JtQFouTHuFFLN6">12707 Bonaventure Drive SE</a></p>
 
-<p align="center" style="margin:0;padding-left: 0;">This meeting is for those who sign up by <b>September 24, 2024.</b></p>
-<p align="center" style="padding-left: 0;font-size: .75rem;font-weight: 300;">If you cannot attend, please sign up and email <a href="mailto:info@bonavistarc.com">info@bonavistarc.com</a> to attend a different session.</p>
+{% include signup_meeting_details.md %}
 
 {% include steps_to_signup.md %}
 
