@@ -1,6 +1,6 @@
 
 
-<p align="center" style="margin:0;padding-left: 0;"><b>Sunday, November 24, 11am - 3pm</b> </p>
+<p align="center" style="margin:0;padding-left: 0;"><b>Sunday, November 24, 12pm - 4pm</b> </p>
 <p align="center" style="margin:0;padding-left: 0;"><b>Lake Bonavista - Bonavista Room</b></p>
 <p align="center" style="padding-left: 0;"><a href="https://maps.app.goo.gl/8D8VYwfzaevEVm1B8">757 Lake Bonavista Dr SE</a></p>
 
