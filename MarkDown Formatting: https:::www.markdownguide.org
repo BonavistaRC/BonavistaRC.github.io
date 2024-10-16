@@ -1,0 +1,77 @@
+MarkDown Formatting: https://www.markdownguide.org/basic-syntax/
+
+Preview Basic formatting: https://markdownlivepreview.com/
+
+---
+layout: default
+title: Block Captain Guide
+---
+
+# Block Captain Guide
+
+
+Welcome to the Block Captains Guide! As a block captain, you play a crucial role in helping keep our community connected and informed. This guide will help you understand your responsibilities and provide tips for success. This role is critial to ensure information is provided to every member of our community. 
+
+---
+
+## Table of Contents
+1. [What is a Block Captain?](#what-is-a-block-captain)
+2. [Your Responsibilities](#your-responsibilities)
+3. [Getting Started](#getting-started)
+4. [Communication Tips](#communication-tips)
+5. [FAQs](#faqs)
+6. [Contact Information](#contact-information)
+
+---
+
+## What is a Block Captain?
+A Block Captain is a volunteer who acts as a liaison between the RC Committee and residents on their block. Captains help distribute information, gather feedback, and report concerns from their neighbors to the community group. This is particularly important for the member fo you block who may not be engages on social media or the internet. You may be the main distribution of information for these block memebers
+
+---
+
+## TODO:Your Responsibilities
+As a Block Captain, you will:
+- Distribute flyers, newsletters, and other important communications.
+- Help gather feedback from residents and pass it on to the community leadership.
+- Maintain communication with the residents on your block via email, phone, or social media.
+- Be a point of contact for your neighbors to report issues or concerns.
+- Assist with organizing community events or initiatives when needed.
+
+---
+
+## TODO:Getting Started
+1. **Get to know your neighbors**: Introduce yourself as the Block Captain and share your contact details.
+2. **Stay informed**: Stay up to date with the latest news from the Bonavista Residents Community website and social media channels.
+3. **Communication channels**: Decide the best way to communicate with your neighbors (email list, social media group, etc.).
+4. **Keep it regular**: Plan to check in with your block every few weeks.
+
+---
+
+## Communication Tips
+- Be clear and concise when sharing information.
+- Encourage two-way communication: listen to your neighbors and be responsive. We want to respect each person individual situation and your role is oto make sure they have the information to make an informed decision.
+- Use multiple platforms (flyers, email, social media) to reach as many people as possible.
+- Keep messages positive and solution-oriented.
+
+TODO: Create a basis infomation packet that can be printed out ie C, intro informatio, some of the sildes form the pres, articles in the press.
+TDOD: Eoiterh create templte here or send out an email to Block catains to advertsise next meetings.
+
+
+---
+
+## FAQs
+**What should I do if I can't reach a resident on my block?**  
+It's okay! Not everyone will be easily reachable. Leave the information with an invite to conact you in the way you feel comfortable. It is very useful to try to get thier email if possible, to make future communication more efficient.
+
+
+**What if I don't have time for a certain task?**  
+Let the RC Committee know, and we can arrange for additional help or coverage.
+
+TODO: Get other common questions asked
+---
+
+## Contact Information
+For any questions or assistance, feel free to contact us at [info@bonavistarc.com](mailto:info@bonavistarc.com) or [Volunteer to be a Block Captain.](../block) 
+
+
+
