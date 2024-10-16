@@ -90,6 +90,6 @@ Let the RC Committee know, and we can arrange for additional help or coverage.
 ---
 
 ## Contact Information
-For any questions or assistance, feel free to contact us at [info@bonavistarc.com](mailto:info@bonavistarc.com) or [Volunteer to be a Block Captain](../block).
+For any questions or assistance, feel free to contact us at [info@bonavistarc.com](mailto:info@bonavistarc.com). Ready to be a Block Captain... [Sign up here](../block).
 
 
