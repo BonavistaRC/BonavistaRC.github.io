@@ -39,7 +39,7 @@ blockquote {
 
 
 # Lake Bonavista Restrictive Covenant (RC) Initiative
-# Block Captian Sign Up
+# Block Captain Sign Up
 
 ---
 
