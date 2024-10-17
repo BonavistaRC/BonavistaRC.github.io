@@ -54,6 +54,8 @@ The following information is useful to have printed out for people who are unawa
 - [City of Calgary Blanket R-CG Rezoning pamphlet](https://www.calgary.ca/content/dam/www/pda/pd/publishingimages/current-projects/R-CG-residential-grade-oriented.pdf)
 - [Overview of a Restrictive Covenant from Carbert Waite LLP](/docs/RCOverview.pdf)
 - [Lake Bonavista Restrictive Covenant](../docs/RCJune102024-FINAL.pdf)
+- [August 2024 Bonavista Bugle](../essay)
+- [Summary Document that includes links to the above](https://docs.google.com/document/d/1VyP7FcbqGMI9nacItABS7iejhe8k8TtDEA0jUYNHf3U/edit?usp=sharing)
 
 ---
 
