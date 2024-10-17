@@ -6,13 +6,13 @@ title: Block Captain Guide
 # Block Captain Guide
 
 
-Welcome to the Block Captains Guide! As a block captain, you play a crucial role in helping keep our community connected and informed. This guide will help you understand your responsibilities and provide tips for success. This role is critical to ensuring information reaches every member of our community.
+Welcome to the Block Captains Guide! As a block captain, you play a crucial role in helping keep our community connected and informed. This guide will help you understand your contributions and provide tips for success. This role is critical to ensuring information reaches every member of our community.
 
 ---
 
 ## Table of Contents
 1. [What is a Block Captain?](#what-is-a-block-captain)
-2. [Your Responsibilities](#your-responsibilities)
+2. [Your Contributions](#your-contributions)
 3. [Getting Started](#getting-started)
 4. [Communication Tips](#communication-tips)
 5. [FAQs](#faqs)
@@ -25,8 +25,8 @@ A Block Captain is a volunteer who acts as a liaison between the RC Committee an
 
 ---
 
-## Your Responsibilities
-As a Block Captain, you will:
+## Your Contributions
+As a Block Captain, you can:
 - Communicate information and action plans to neighbours (distribute flyers, newsletters, and other important communications).
 - Build a contact list for your street to maintain communication with the residents on your block via email or phone.
 - Help gather feedback from residents and pass it on to the RC Committee.
