@@ -52,11 +52,13 @@ blockquote {
 
 ---
 
-<h2 align="center" id="meeting">Restrictive Covenant Information Meeting</h2>
+<h2 align="center" id="meeting">Restrictive Covenant Information Meetings</h2>
 
-<p align="center" style="margin:0;padding-left: 0;"><b>Tuesday, November 5 at 7pm</b> </p>
-<p align="center" style="margin:0;padding-left: 0;">Google Meet</p>
-<p align="center" style="padding-left: 0;"><b>Meeting Link: </b><a href="https://meet.google.com/wwe-krnz-uua">meet.google.com/wwe-krnz-uua</a></p>
+<p align="center" style="margin:0;padding-left: 0;"><b>Saturday, February 8 at 1pm</b> </p>
+<p align="center" style="margin:0;padding-left: 0;"><b>Friday, April 4 at 6:30pm</b> </p>
+<p align="center" style="margin:0;padding-left: 0;"></p>
+<p align="center" style="margin:0;padding-left: 0;">Willow Ridge Community Association</p>
+<p align="center" style="margin:0;padding-left: 0;"><a href="https://maps.app.goo.gl/E2kSy1YXratySM3q7">680 Acadia Dr SE</a></p>
 
 ---
 
