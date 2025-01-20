@@ -54,11 +54,21 @@ blockquote {
 
 <h2 align="center" id="meeting">Restrictive Covenant Information Meetings</h2>
 
+<p align="center" style="margin-top:1rem;padding-left:0;font-size: 1.25rem;">In Person</p>
 <p align="center" style="margin:0;padding-left: 0;"><b>Saturday, February 8 at 1pm</b> </p>
 <p align="center" style="margin:0;padding-left: 0;"><b>Friday, April 4 at 6:30pm</b> </p>
 <p align="center" style="margin:0;padding-left: 0;"></p>
 <p align="center" style="margin:0;padding-left: 0;">Willow Ridge Community Association</p>
-<p align="center" style="margin:0;padding-left: 0;"><a href="https://maps.app.goo.gl/E2kSy1YXratySM3q7">680 Acadia Dr SE</a></p>
+<p align="center" style="padding-left: 0;"><a href="https://maps.app.goo.gl/E2kSy1YXratySM3q7">680 Acadia Dr SE</a></p>
+
+<p align="center" style="margin-top:1rem;padding-left: 0;font-size: 1.25rem;">Virtual</p>
+<p align="center" style="margin:0;padding-left: 0;"><b>Thursday, Feb 27 at 7pm</b></p>
+<p align="center" style="padding-left: 0;"><b>Meeting Link:</b>
+  <a href="https://meet.google.com/adb-vyfs-cpk">meet.google.com/adb-vyfs-cpk</a></p>
+<p align="center" style="margin:0;padding-left: 0;"><b>Tuesday, April 27 at 7pm</b></p>
+<p align="center" style="padding-left: 0;"><b>Meeting Link:</b>
+  <a href="https://meet.google.com/isp-ceef-mad">meet.google.com/isp-ceef-mad</a></p>
+
 
 ---
 
