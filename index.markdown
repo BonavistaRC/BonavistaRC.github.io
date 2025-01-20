@@ -65,7 +65,7 @@ blockquote {
 <p align="center" style="margin:0;padding-left: 0;"><b>Thursday, Feb 27 at 7pm</b></p>
 <p align="center" style="padding-left: 0;"><b>Meeting Link:</b>
   <a href="https://meet.google.com/adb-vyfs-cpk">meet.google.com/adb-vyfs-cpk</a></p>
-<p align="center" style="margin:0;padding-left: 0;"><b>Tuesday, April 27 at 7pm</b></p>
+<p align="center" style="margin:0;padding-left: 0;"><b>Thursday, April 10 at 7pm</b></p>
 <p align="center" style="padding-left: 0;"><b>Meeting Link:</b>
   <a href="https://meet.google.com/isp-ceef-mad">meet.google.com/isp-ceef-mad</a></p>
 
