@@ -89,35 +89,35 @@ This site is dedicated to the initiative to <b>add a Restrictive Covenant to the
 </div>
 <p align="center" style="padding-left: 0;font-size: .75rem;font-weight: 300;">RC-G on a typical 50ft lot</p>
 
-Since the new zoning has come into effect, the following have been proposed in neighbouring communities:
+---
+## Proposed Developments in Lake Bonavista
+
+The following developments have been proposed in our Community:
 
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <p align="center" style="margin:0;padding-left: 0;"><b>Queensland</b></p>
-        <p align="center" style="padding-left: 0;font-size: .75rem;font-weight: 300;">652 Queensland Dr SE</p>
-      <p align="center"><a href="https://dmap.calgary.ca/?p=DP2024-04842"><img style="max-width: 100%;" src="../img/Queensland2.png "></a></p>
-      <p align="center" style="margin:0;padding-left: 0;"><a href="https://dmap.calgary.ca/?p=DP2024-04842">Development Permit</a></p>
-      <p style="margin:0;padding-left: 0;font-size: .75rem;font-weight: 300;">Rowhouse Building (4 units), Secondary Suite (4 suites)</p>
-      <p style="margin:0;padding-left: 0;font-size: .75rem;font-weight: 300;">3 storey (approximately 10 metres) in height</p>
-      <p align="center" style="padding-left: 0;"><a href="https://calgary.citynews.ca/2024/08/16/calgary-queensland-concerns-proposed-development/">City News Article</a></p>
+      <p align="center" style="margin:1em;padding-left: 0;"><b>1367 Lake Ontario Dr</b></p>
+      <p align="center"><a href="https://dmap.calgary.ca/?p=DP2025-02945"><img style="max-width: 100%;" src="../img/Ontario-1.png"></a></p>
+      <p align="center" style="margin:0;padding-left: 0;"><a href="https://dmap.calgary.ca/?p=DP2025-02945">Development Permit</a></p>
+      <p align="center" style="margin:0;padding-left: 0;">2 infill homes approximately 9 meters tall</p>
+      <p align="center" style="margin:0.5em;padding-left: 0;"><b>Status:</b> Under Review, <a href="https://dmap.calgary.ca/?p=DP2025-02945">submit your comments to the city</a></p>
     </div>
     <div class="col-sm">
-      <p align="center" style="margin:0;padding-left: 0;"><b>Lakeview</b></p>
-      <p align="center" style="padding-left: 0;font-size: .75rem;font-weight: 300;">2612 66 Ave SW</p>
-      <p align="center"><a href="https://dmap.calgary.ca/?p=DP2024-05408"><img style="max-width: 100%;" src="../img/Lakeview.png "></a></p>
-      <p align="center" style="margin:0;padding-left: 0;"><a href="https://dmap.calgary.ca/?p=DP2024-05408">Development Permit</a></p>
+      <p align="center" style="margin:1em;padding-left: 0;"><b>13516 Bonaventure Dr</b></p>
+      <p align="center"><a href="https://dmap.calgary.ca/?find=LOC2025-0093"><img style="max-width: 68%;" src="../img/Bonaventure.jpg"></a></p>
+      <p align="center" style="margin:0;padding-left: 0;"><a href="https://dmap.calgary.ca/?find=LOC2025-0093">Development Permit</a></p>
+      <p align="center" style="margin:0;padding-left: 0;">The application proposes to <b>change the designation</b> of this property to <b>DC/R-CG</b></p>
+      <p align="center" style="margin:0;padding-left: 0;">This allows for a business in addition to densification of the lot</p>
+      <p align="center" style="margin:.5em;padding-left: 0;"><b>Status:</b> Submitted, it isn't currently open for comments.</p>
+    </div>
+    <!--div class="col-sm">
+      <p align="center" style="margin:0;padding-left: 0;"><b>624 Lake Morraine Way</b></p>
+      <p align="center"><a href="https://dmap.calgary.ca/?p=DP2025-03720"><img style="max-width: 100%;" src="../img/Lakeview.png "></a></p>
+      <p align="center" style="margin:0;padding-left: 0;"><a href="https://dmap.calgary.ca/?p=DP2025-03720">Development Permit</a></p>
       <p style="margin:0;padding-left: 0;font-size: .75rem;font-weight: 300;">Townhouse Building (4 units), Secondary Suite (4 suites), Accessory Residential Building (1 building, garage)</p>
       <p style="padding-left: 0;font-size: .75rem;font-weight: 300;">2.5 storey (approximately 10 metres) in height</p>
-    </div>
-    <div class="col-sm">
-      <p align="center" style="margin:0;padding-left: 0;"><b>Braeside</b></p>
-      <p align="center" style="padding-left: 0;font-size: .75rem;font-weight: 300;">11027 Bradbury Dr SW</p>
-      <p align="center"><a href="https://dmap.calgary.ca/?p=DP2024-05289"><img style="max-width: 100%;" src="../img/Braeside.png "></a></p>
-      <p align="center" style="margin:0;padding-left: 0;"><a href="https://dmap.calgary.ca/?p=DP2024-05289">Development Permit</a></p>
-      <p style="margin:0;padding-left: 0;font-size: .75rem;font-weight: 300;">Rowhouse Building (4 units), Secondary Suite (4 suites)</p>
-      <p style="padding-left: 0;font-size: .75rem;font-weight: 300;">3 storey (approximately 10 metres) in height</p>
-    </div>
+    </div!-->
   </div>
 </div>
 
