@@ -52,15 +52,30 @@ blockquote {
 
 ---
 
-<h2 align="center" id="meeting">Restrictive Covenant Information Meetings</h2>
+<h2 align="center" id="meeting">Calgary Municlple Election Information</h2>
+
+A 24-question survey was sent to all declared mayoral and councillor candidates by Calgarians for Thoughtful Growth including thier thought on Blanket Re-zoning.
+ 
+
+Specific responses of each candidate who responded can be found at this website 
+
+<p align="center"><a href="https://mwww.calgariansforthoughtfulgrowth.com">www.calgariansforthoughtfulgrowth.com</a></p>
+
+where you will find an interactive map on a ward-by-ward basis for councillor responses and the City Hall icon in the middle of the map for mayoral candidates. 
+ 
+
+ 
+
+
+<!--h2 align="center" id="meeting">Restrictive Covenant Information Meetings</h2-->
 
 <!--p align="center" style="margin-top:1rem;padding-left:0;font-size: 1.25rem;">In Person</p-->
-<p align="center" style="margin:0;padding-left: 0;"><b>Wednesday, June 18 at 7pm</b> </p>
+<!--p align="center" style="margin:0;padding-left: 0;"><b>Wednesday, June 18 at 7pm</b> </p>
 <p align="center" style="margin:0;padding-left: 0;"><b>Tuesday, July 15 at 7pm</b> </p>
 <p align="center" style="margin:0;padding-left: 0;"><b>Tuesday, August 26 at 7pm</b> </p>
 <p align="center" style="margin:0;padding-left: 0;"></p>
 <p align="center" style="margin:0;padding-left: 0;">Lake Bonavista Community Association</p>
-<p align="center" style="padding-left: 0;"><a href="https://maps.app.goo.gl/N2Cv919cwU3NE4gh8">1401 Acadia Dr SE</a></p>
+<p align="center" style="padding-left: 0;"><a href="https://maps.app.goo.gl/N2Cv919cwU3NE4gh8">1401 Acadia Dr SE</a></p-->
 
 <!--p align="center" style="margin-top:1rem;padding-left: 0;font-size: 1.25rem;">Virtual</p>
 <p align="center" style="margin:0;padding-left: 0;"><b>Thursday, Feb 27 at 7pm</b></p>
