@@ -52,16 +52,44 @@ blockquote {
 
 ---
 
-<h2 align="center" id="meeting">Calgary Municlple Election Information</h2>
+<p align="center">
+This site is dedicated to the initiative to <b>add a Restrictive Covenant to the property titles in Lake Bonavista</b> to protect the character and nature of our community as one of single-family homes with big trees and quiet, safe streets. More Information in the <a href="../essay">August 2024 Bonavista Bugle</a>
+</p>
 
-A 24-question survey was sent to all declared mayoral and councillor candidates by Calgarians for Thoughtful Growth including thier thought on Blanket Re-zoning.
+[**Curtis Marble**](https://carbertwaite.com/calgary-lawyers/curtis-marble/) of [Carbert Waite LLP](https://carbertwaite.com/) was retained to draft Lake Bonavista's [**Restrictive Covenant (RC)**](../docs/RCJune102024-FINAL.pdf). He is also assisting several other Calgary communities with similar RC initiatives.
+
+
+---
+
+<h2 align="center">Blanket Rezoning Has Been Repealed</h2>
+
+In April 2026, Calgary City Council voted to [repeal the citywide blanket rezoning](https://www.calgary.ca/planning/projects/rezoning.html). This was an important outcome for Lake Bonavista and other established communities. It demonstrated that residents getting informed, participating in the process and making their voices heard can make a difference.
+
+<p align="center"><b>The Restrictive Covenant Is Still Important</b></p>
+
+While blanket rezoning has been repealed, zoning and City planning policies can and are changing. The City of Calgary is currently developing its next major planning initiative, [**The Calgary Plan**](https://www.calgary.ca/planning/city-building-program/city-building-program/the-calgary-plan.html), which could bring future zoning changes to our community. The Calgary Plan targets increased density around transit hubs and key corridors:
+
+
+<div style="text-align: center;margin-top: 0.5rem;margin-bottom: 1rem; padding-left: 2rem;">
+    <a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/city-building-program/calgary-plan/calgary-plan-draft-2026-05-20.pdf"><img style="max-width: 50%;" src="../img/CityPlan.png "></a>
+</div>
+<p align="center" style="padding-left: 0;font-size: .75rem;font-weight: 300;">Map provided by Counsilor Landon Johnson - Ward 14</p>
+
+
+Additional Information: 
+
+* [The Calgary Plan Website](https://www.calgary.ca/planning/city-building-program/city-building-program/the-calgary-plan.html)
+* [The Calgary Plan Draft](https://www.calgary.ca/content/dam/www/pda/pd/documents/city-building-program/calgary-plan/calgary-plan-draft-2026-05-20.pdf)
+* [June 16th Strategic Meeting of Council Minutes/Agenda](https://pub-calgary.escribemeetings.com/FileStream.ashx?DocumentId=362404)
+* [Latest Engagement Report](https://hdp-ca-prod-app-cgy-engage-files.s3.ca-central-1.amazonaws.com/9517/7984/4378/CP_Engagement_Summary_2026_05_26.pdf)
+* [CityNews Report on The Calgary Plan](https://calgary.citynews.ca/2026/06/17/calgary-council-delays-final-decision-on-city-master-plan/)
+
+We are working on an information session for Lake Bonavista residents in November to explain The Calgary Plan and what it may mean for our community. Details will be posted here as they are finalized.
+
+<p align="center">These ongoing changes demonstrate why the Restrictive Covenant continues to be important in protecting our community as Calgary's planning policies evolve.</p>
+
+
  
-
-Specific responses of each candidate who responded can be found at this website 
-
-<p align="center"><a href="https://mwww.calgariansforthoughtfulgrowth.com">www.calgariansforthoughtfulgrowth.com</a></p>
-
-where you will find an interactive map on a ward-by-ward basis for councillor responses and the City Hall icon in the middle of the map for mayoral candidates. 
  
 
  
@@ -87,27 +115,8 @@ where you will find an interactive map on a ward-by-ward basis for councillor re
 
 
 ---
+## Developments Approved during Blanket Re-Zoning 
 
-
-<p align="center">
-This site is dedicated to the initiative to <b>add a Restrictive Covenant to the property titles in Lake Bonavista</b> to protect the character and nature of our community as one of single-family homes with big trees and quiet, safe streets. <a href="../essay">More Information about the rationale behind ths effort was published in the August 2024 Bonavista Bugle</a>
-</p>
-
-
-<p align="center">
-  As of August 6, 2024
-    <a href="https://www.calgary.ca/content/dam/www/pda/pd/publishingimages/current-projects/R-CG-residential-grade-oriented.pdf"> Blanket R-CG Rezoning</a> for the majority of housing in Calgary is in effect, including Lake Bonavista.
-</p>
-
-<div style="text-align: center;margin-top: 0.5rem;margin-bottom: 1rem; padding-left: 2rem;">
-    <a href="https://www.calgary.ca/content/dam/www/pda/pd/publishingimages/current-projects/R-CG-residential-grade-oriented.pdf"><img style="max-width: 100%;" src="../img/50ft.png "></a>
-</div>
-<p align="center" style="padding-left: 0;font-size: .75rem;font-weight: 300;">RC-G on a typical 50ft lot</p>
-
----
-## Proposed Developments in Lake Bonavista
-
-The following developments have been proposed in our Community:
 
 <div class="container">
   <div class="row">
@@ -116,34 +125,24 @@ The following developments have been proposed in our Community:
       <p align="center"><a href="https://dmap.calgary.ca/?p=DP2025-02945"><img style="max-width: 100%;" src="../img/Ontario-1.png"></a></p>
       <p align="center" style="margin:0;padding-left: 0;"><a href="https://dmap.calgary.ca/?p=DP2025-02945">Development Permit</a></p>
       <p align="center" style="margin:0;padding-left: 0;">2 infill homes approximately 9 meters tall</p>
-      <p align="center" style="margin:0.5em;padding-left: 0;"><b>Status:</b> Under Review, <a href="https://dmap.calgary.ca/?p=DP2025-02945">submit your comments to the city</a></p>
     </div>
     <div class="col-sm">
       <p align="center" style="margin:1em;padding-left: 0;"><b>13516 Bonaventure Dr</b></p>
-      <p align="center"><a href="https://dmap.calgary.ca/?find=LOC2025-0093"><img style="max-width: 68%;" src="../img/Bonaventure.jpg"></a></p>
-      <p align="center" style="margin:0;padding-left: 0;"><a href="https://dmap.calgary.ca/?find=LOC2025-0093">Development Permit</a></p>
-      <p align="center" style="margin:0;padding-left: 0;">The application proposes to <b>change the designation</b> of this property to <b>DC/R-CG</b></p>
-      <p align="center" style="margin:0;padding-left: 0;">This allows for a business in addition to densification of the lot</p>
-      <p align="center" style="margin:.5em;padding-left: 0;"><b>Status:</b> Submitted, it isn't currently open for comments.</p>
+      <p align="center"><a href="https://dmap.calgary.ca/?p=DP2025-06949"><img style="max-width: 68%;" src="../img/DayCare.png"></a></p>
+      <p align="center" style="margin:0;padding-left: 0;"><a href="https://dmap.calgary.ca/?p=DP2025-06949">Development Permit</a></p>
+      <p align="center" style="margin:0;padding-left: 0;">Child Care Service for upto 39 Children</p>
     </div>
-    <!--div class="col-sm">
-      <p align="center" style="margin:0;padding-left: 0;"><b>624 Lake Morraine Way</b></p>
-      <p align="center"><a href="https://dmap.calgary.ca/?p=DP2025-03720"><img style="max-width: 100%;" src="../img/Lakeview.png "></a></p>
-      <p align="center" style="margin:0;padding-left: 0;"><a href="https://dmap.calgary.ca/?p=DP2025-03720">Development Permit</a></p>
-      <p style="margin:0;padding-left: 0;font-size: .75rem;font-weight: 300;">Townhouse Building (4 units), Secondary Suite (4 suites), Accessory Residential Building (1 building, garage)</p>
-      <p style="padding-left: 0;font-size: .75rem;font-weight: 300;">2.5 storey (approximately 10 metres) in height</p>
-    </div!-->
+    <div class="col-sm">
+      <p align="center" style="margin:0;padding-left: 0;"><b>1223 and 1227 Lake Bonavista Dr</b></p>
+      <p align="center"><a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/planning_applications/2026/community-march-22-2026.pdf"><img style="max-width: 100%;" src="../img/1223.png "></a></p>
+      <p align="center" style="margin:0;padding-left: 0;"><a href="https://www.calgary.ca/content/dam/www/pda/pd/documents/planning_applications/2026/community-march-22-2026.pdf">Subdivision Notice</a></p>
+      <p align="center" style="margin:0;padding-left: 0;">Subdivided the properties into 4 parcels</p>
+    </div>
   </div>
 </div>
 
-[Curtis Marble](https://carbertwaite.com/calgary-lawyers/curtis-marble/) from [Carbert Waite LLP](https://carbertwaite.com/) was retained to draft a [Restrictive Covenant (RC) ](../docs/RCJune102024-FINAL.pdf)for property owners of Lake Bonavista to prevent this type of development. [Curtis Marble](https://carbertwaite.com/calgary-lawyers/curtis-marble/) is also working with several other Calgary communities on their RC initiatives. 
-
 ---
-## In the News
 
-{% include recent_news.md %}
-
----
 ## Call to Action
 
 <div class="container">
@@ -168,11 +167,9 @@ The following developments have been proposed in our Community:
 
 ---
 
-<h2 align="center" id="meeting">Restrictive Covenant Signing Meeting</h2>
+<h2 align="center" id="meeting">Upcoming Information & Signing Sessions</h2>
 
 {% include signup_meeting_details.md %}
-
-{% include steps_to_signup.md %}
 
 <div class="col-md text-center" style="margin-bottom: 1rem;margin-top: 2rem;">
     <a class="button" href="../signup">Sign up for the RC</a>
