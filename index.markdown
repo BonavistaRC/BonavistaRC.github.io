@@ -56,7 +56,7 @@ blockquote {
 This site is dedicated to the initiative to <b>add a Restrictive Covenant to the property titles in Lake Bonavista</b> to protect the character and nature of our community as one of single-family homes with big trees and quiet, safe streets. More Information in the <a href="../essay">August 2024 Bonavista Bugle</a>
 </p>
 
-[**Curtis Marble**](https://carbertwaite.com/calgary-lawyers/curtis-marble/) of [Carbert Waite LLP](https://carbertwaite.com/) was retained to draft Lake Bonavista's [**Restrictive Covenant (RC)**](../docs/RCJune102024-FINAL.pdf). He is also assisting several other Calgary communities with similar RC initiatives.
+[Curtis Marble](https://carbertwaite.com/calgary-lawyers/curtis-marble/) of [Carbert Waite LLP](https://carbertwaite.com/) was retained to draft Lake Bonavista's [Restrictive Covenant (RC)](../docs/RCJune102024-FINAL.pdf). He is also assisting several other Calgary communities with similar RC initiatives.
 
 
 ---
@@ -67,7 +67,7 @@ In April 2026, Calgary City Council voted to [repeal the citywide blanket rezoni
 
 <p align="center"><b>The Restrictive Covenant Is Still Important</b></p>
 
-While blanket rezoning has been repealed, zoning and City planning policies can and are changing. The City of Calgary is currently developing its next major planning initiative, [**The Calgary Plan**](https://www.calgary.ca/planning/city-building-program/city-building-program/the-calgary-plan.html), which could bring future zoning changes to our community. The Calgary Plan targets increased density around transit hubs and key corridors:
+While blanket rezoning has been repealed, zoning and City planning policies can and are changing. The City of Calgary is currently developing its next major planning initiative, [The Calgary Plan](https://www.calgary.ca/planning/city-building-program/city-building-program/the-calgary-plan.html), which could bring future zoning changes to our community. The Calgary Plan targets increased density around transit hubs and key corridors:
 
 
 <div style="text-align: center;margin-top: 0.5rem;margin-bottom: 1rem; padding-left: 2rem;">
