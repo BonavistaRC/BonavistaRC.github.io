@@ -3,15 +3,8 @@ layout: default
 title: Members
 ---
 
-## Members
-<br>
-
 
 <html>
-<head>
-  <meta charset="UTF-8">
-  <title>Membership Test</title>
-</head>
 
 <style>
 .member-update {
