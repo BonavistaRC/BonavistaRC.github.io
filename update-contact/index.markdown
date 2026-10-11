@@ -84,6 +84,30 @@ title: Update Contact Information
       padding: 20px;
     }
 
+    .preference-note {
+      display: inline;
+      margin-left: 6px;
+      font-size: 0.85em;
+      font-weight: normal;
+      color: #555555; /* Charcoal grey */
+    }
+
+    .verification-spinner {
+      width: 40px;
+      height: 40px;
+      border: 4px solid #e5e5e5;
+      border-top: 4px solid #555555;
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin: 60px auto;
+    }
+
+    @keyframes spin {
+      to {
+        transform: rotate(360deg);
+      }
+    }
+
   </style>
 
 
@@ -97,10 +121,9 @@ title: Update Contact Information
   <div id="verifying" hidden>
 
     <h1>Verifying Your Link</h1>
-
-    <p>
-      Please wait while we verify your secure link.
-    </p>
+    <div id="verifying" hidden>
+      <div class="verification-spinner"></div>
+    </div>
 
   </div>
 
@@ -110,13 +133,7 @@ title: Update Contact Information
 
   <div id="verified" hidden>
 
-    <h1>Update Your Contact Information</h1>
-
-    <p>
-      Please confirm whether you are still a registered
-      owner of the property.
-    </p>
-
+    <h1>Member Information</h1>
 
     <form id="update-form">
 
@@ -138,7 +155,7 @@ title: Update Contact Information
       <div class="field">
 
         <label>
-          Are you currently a registered owner of this property?
+          Are you still the owner of this property?
         </label>
 
         <div class="radio-option">
@@ -168,7 +185,7 @@ title: Update Contact Information
           >
 
           <label for="owner-moved">
-            No, I am no longer a registered owner
+            No, the ownership of the property has change.
           </label>
 
         </div>
@@ -237,10 +254,9 @@ title: Update Contact Information
               Email
             </label>
 
-            <p class="preference-note">
-              Preferred. Email communication helps us keep
-              administrative and mailing costs low.
-            </p>
+            <span class="preference-note">
+              (Preferred, reduces administrative and mailing costs for Members)
+            </span>
 
           </div>
 
@@ -268,25 +284,6 @@ title: Update Contact Information
 
       <!-- MOVED EXPLANATION -->
 
-      <div id="moved-message" hidden>
-
-        <p>
-          Thank you for letting us know.
-        </p>
-
-        <p>
-          We will update our records to indicate that you
-          are no longer the registered owner.
-        </p>
-
-        <p>
-          We will also email you information to provide to
-          your realtor or the new property owner.
-        </p>
-
-      </div>
-
-
 
       <div
         id="form-error"
@@ -299,7 +296,7 @@ title: Update Contact Information
         type="submit"
         hidden
       >
-        Update Contact Information
+        Update
       </button>
 
 
@@ -307,86 +304,91 @@ title: Update Contact Information
 
   </div>
 
+ 
+<!-- SUCCESS: CURRENT OWNER -->
 
+<div id="success-current" hidden>
 
-  <!-- SUCCESS: CURRENT OWNER -->
+  <h1>Information Updated</h1>
 
-  <div id="success-current" hidden>
+  <p>
+    Thank you for helping us keep our records up to date.
+  </p>
 
-    <h1>Contact Information Updated</h1>
+  <p>
+    We appreciate you taking the time to help us stay
+    connected.
+  </p>
 
-    <p>
-      Thank you. Your contact information has been
-      successfully updated and your membership record
-      has been verified.
-    </p>
-
-  </div>
-
-
-
-  <!-- SUCCESS: MOVED -->
-
-  <div id="success-moved" hidden>
-
-    <h1>Thank You</h1>
-
-    <p>
-      We have updated our records to indicate that you
-      are no longer the registered owner.
-    </p>
-
-    <p>
-      We have emailed you information to provide to your
-      realtor or the new property owner.
-    </p>
-
-    <p>
-      Once the new owner receives their Land Title,
-      they should contact
-      <a href="mailto:info@bonavistarc.com">
-        info@bonavistarc.com
-      </a>
-      with a copy of the title and their contact information.
-    </p>
-
-  </div>
+</div>
 
 
 
-  <!-- EXPIRED -->
+<!-- SUCCESS: MOVED -->
 
-  <div id="expired" hidden>
+<div id="success-moved" hidden>
 
-    <h1>Link Expired</h1>
+  <h1>Thank You for Letting Us Know</h1>
 
-    <p>
-      This secure link is invalid or has expired.
-    </p>
+  <p>
+    We've updated your Member record to reflect that
+    you're no longer the registered owner of the property.
+  </p>
 
-    <p>
-      Please return to the members page and enter your
-      membership number to request a new link.
-    </p>
+  <p>
+    We've also sent you an email with information you
+    can pass along to your realtor or the new property
+    owner to make the transition easier.
+  </p>
 
-    <a
-      class="button"
-      href="/members/"
-    >
-      Request a New Link
-    </a>
+  <p>
+    Once the new owner receives their Land Title,
+    they can contact us at
+    <a href="mailto:info@bonavistarc.com">
+      info@bonavistarc.com</a>
+    with a copy of their Land Title and their contact
+    information so we can update our records.
+  </p>
 
-    <p>
-      If you have any issues or need assistance,
-      please contact us at
-      <a href="mailto:info@bonavistarc.com">
-        info@bonavistarc.com
-      </a>.
-    </p>
+  <p>
+    Thank you for helping us keep our records accurate.
+  </p>
 
-  </div>
+</div>
 
 
+
+<!-- EXPIRED -->
+
+<div id="expired" hidden>
+
+  <h1>Let's Get You a New Link</h1>
+
+  <p>
+    It looks like your verification link has expired
+    or is no longer valid.
+  </p>
+
+  <p>
+    Simply return to the Members page
+    and enter your Member Number to request a new link.
+  </p>
+
+  <a
+    class="button"
+    href="/members/"
+  >
+    Request a New Link
+  </a>
+
+  <p>
+    Need a hand? Forgot your Member Number? We're happy to help.
+    Please contact us at
+    <a href="mailto:info@bonavistarc.com">
+      info@bonavistarc.com</a>.
+  </p>
+
+</div>
 
   <!-- NO TOKEN = 404 -->
 
@@ -625,7 +627,7 @@ title: Update Contact Information
       submitButton.hidden = false;
 
       submitButton.textContent =
-        'Notify Us of Ownership Change';
+        'Update Ownership';
 
       document.getElementById(
         'email'
@@ -752,8 +754,8 @@ const response =
 
         submitButton.textContent =
           moved
-            ? 'Notify Us of Ownership Change'
-            : 'Update Contact Information';
+            ? 'Update Ownership'
+            : 'Update';
 
       }
 
