@@ -188,7 +188,7 @@ title: Update Member Information
           >
 
           <label for="owner-moved">
-            No, the ownership of the property has change.
+            No, the ownership of the property has changed
           </label>
 
         </div>
