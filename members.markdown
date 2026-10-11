@@ -45,6 +45,28 @@ title: Members
   max-width: 550px;
   margin: 0 auto;
 }
+
+/* Button */
+.button {
+  background-color: #4fcdcf; /* Pastel Green */
+  color: #fff;
+  padding: 17px;
+  text-align: center;
+  text-decoration: none;
+  text-decoration-color: #fff;
+  display: inline-block;
+  border-radius: 2px;
+  border: none;
+}
+
+.button:hover {
+  opacity: .8 ;
+  color: white;
+  text-decoration: none;
+}
+
+/* Links */
+
 </style>
 
 <body>
@@ -81,7 +103,7 @@ title: Members
         value="requestVerification"
       >
 
-      <button type="submit">Continue</button>
+      <button class="button" type="submit">Continue</button>
     </form>
   </div>
 

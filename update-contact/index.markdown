@@ -53,25 +53,6 @@ title: Update Member Information
       font-size: 0.95em;
     }
 
-    button {
-      padding: 12px 20px;
-      font-size: 16px;
-      cursor: pointer;
-    }
-
-    button:disabled {
-      cursor: default;
-      opacity: 0.6;
-    }
-
-    .button {
-      display: inline-block;
-      margin-top: 15px;
-      padding: 12px 20px;
-      text-decoration: none;
-      border: 1px solid #555;
-      border-radius: 4px;
-    }
 
     .error-message {
       margin: 20px 0;
@@ -96,7 +77,7 @@ title: Update Member Information
       display: flex;
       justify-content: center;
       align-items: center;
-      height: 100vh;
+      padding: 40px 0;
     }
     .spinner {
       width: 50px;
@@ -111,6 +92,24 @@ title: Update Member Information
       100% { transform: rotate(360deg); }
     }
 
+    /* Button */
+.button {
+  background-color: #4fcdcf; /* Pastel Green */
+  color: #fff;
+  padding: 17px;
+  text-align: center;
+  text-decoration: none;
+  text-decoration-color: #fff;
+  display: inline-block;
+  border-radius: 2px;
+  border: none;
+}
+
+.button:hover {
+  opacity: .8 ;
+  color: white;
+  text-decoration: none;
+}
   </style>
 
 
@@ -123,7 +122,7 @@ title: Update Member Information
 
   <div id="verifying" hidden>
 
-  <h1>Verifying Your Link</h1>
+  <h1 style="text-align: center;">Verifying Your Link</h1>
     <div class="spinner-container">
       <div class="spinner" role="status" aria-label="Verifying secure link"></div>
     </div>
@@ -296,6 +295,7 @@ title: Update Member Information
 
       <button
         id="submit-button"
+        class="button"
         type="submit"
         hidden
       >
@@ -312,7 +312,7 @@ title: Update Member Information
 
 <div id="success-current" hidden>
 
-  <h1>Information Updated</h1>
+  <h1>Member Information Updated</h1>
 
   <p>
     Thank you for helping us keep our records up to date.
@@ -331,31 +331,20 @@ title: Update Member Information
 
 <div id="success-moved" hidden>
 
-  <h1>Thank You for Letting Us Know</h1>
+<h1>Property Information Updated</h1>
 
-  <p>
-    We've updated your Member record to reflect that
-    you're no longer the registered owner of the property.
-  </p>
+<p>
+  We've updated our records to reflect the change in property ownership.
+</p>
 
-  <p>
-    We've also sent you an email with information you
-    can pass along to your realtor or the new property
-    owner to make the transition easier.
-  </p>
+<p>
+  We've also sent you an email with information to pass onto your realtor
+  or the new property owner.
+</p>
 
-  <p>
-    Once the new owner receives their Land Title,
-    they can contact us at
-    <a href="mailto:info@bonavistarc.com">
-      info@bonavistarc.com</a>
-    with a copy of their Land Title and their contact
-    information so we can update our records.
-  </p>
-
-  <p>
-    Thank you for helping us keep our records accurate.
-  </p>
+<p>
+  Thank you for helping us keep our records up to date.
+</p>
 
 </div>
 
@@ -363,32 +352,19 @@ title: Update Member Information
 
 <!-- EXPIRED -->
 
-<div id="expired" hidden>
+<div id="expired" style="text-align: center;" hidden>
 
-  <h1>Let's Get You a New Link</h1>
-
-  <p>
-    It looks like your verification link has expired
-    or is no longer valid.
-  </p>
+  <h1 style="text-align: center;">Link Expired</h1>
 
   <p>
-    Simply return to the Members page
-    and enter your Member Number to request a new link.
+    Return to the  <a href="/members">Member Portal</a> and enter your Member Number.
   </p>
-
-  <a
-    class="button"
-    href="/members/"
-  >
-    Request a New Link
-  </a>
 
   <p>
     Need a hand? Forgot your Member Number? We're happy to help.
     Please contact us at
     <a href="mailto:info@bonavistarc.com">
-      info@bonavistarc.com</a>.
+      info@bonavistarc.com</a>
   </p>
 
 </div>
@@ -445,9 +421,6 @@ title: Update Member Information
 
   const contactFields =
     document.getElementById('contact-fields');
-
-  const movedMessage =
-    document.getElementById('moved-message');
 
   const submitButton =
     document.getElementById('submit-button');
@@ -597,12 +570,11 @@ title: Update Member Information
     .addEventListener('change', function () {
 
       contactFields.hidden = false;
-      movedMessage.hidden = true;
 
       submitButton.hidden = false;
 
       submitButton.textContent =
-        'Update Contact Information';
+        'Update';
 
       document.getElementById(
         'email'
@@ -625,7 +597,6 @@ title: Update Member Information
     .addEventListener('change', function () {
 
       contactFields.hidden = true;
-      movedMessage.hidden = false;
 
       submitButton.hidden = false;
 
