@@ -39,6 +39,12 @@ title: Members
   cursor: wait;
   opacity: 0.7;
 }
+
+#confirmation {
+  text-align: center;
+  max-width: 550px;
+  margin: 0 auto;
+}
 </style>
 
 <body>
@@ -47,12 +53,12 @@ title: Members
 
   <div id="request-form">
     <h1>Member Portal</h1>
-
     <p>
-      Enter your Member Number to receive a secure link to access your Member information. The link will be emailed to the address we have on file for your property.
+      Enter your Member Number and we'll email a secure link to the address on file.
     </p>
-    <p>If you do not know your Member number, please contact us at
-    <a href="mailto:info@bonavistarc.com">info@bonavistarc.com</a>
+    <p>Don't know your Member Number? Contact us at
+      <a href="mailto:info@bonavistarc.com">info@bonavistarc.com</a>
+    </p>
 
     <form
       id="member-form"
@@ -84,16 +90,14 @@ title: Members
     <h1>Check Your Email</h1>
 
     <p>
-      If we have a matching Member Number and an email on file, you'll receive an email with a secure link to continue. Please remeber to check the spam folder if you do not recieve an email within a few minutes.
+      If your Member Number matchs our records, you'll receive a secure link shortly. Please check your spam folder if it doesn't arrive.
 	</p>
 
-	<p>
-	  The link in the email will expire in 30 minutes.
-	</p>
+
 
 	<p>
-	  If you have any issues or need assistance, please contact us at
-	  <a href="mailto:info@bonavistarc.com">info@bonavistarc.com</a>.
+	  Need help? Contact us at
+	  <a href="mailto:info@bonavistarc.com">info@bonavistarc.com</a>
 	</p>
   </div>
 

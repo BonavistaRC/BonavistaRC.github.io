@@ -92,20 +92,23 @@ title: Update Member Information
       color: #555555; /* Charcoal grey */
     }
 
-    .verification-spinner {
-      width: 40px;
-      height: 40px;
-      border: 4px solid #e5e5e5;
-      border-top: 4px solid #555555;
-      border-radius: 50%;
-      animation: spin 0.8s linear infinite;
-      margin: 60px auto;
+    .spinner-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
     }
-
+    .spinner {
+      width: 50px;
+      height: 50px;
+      border: 5px solid #f3f3f3;
+      border-top: 5px solid #4FCDCF;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+    }
     @keyframes spin {
-      to {
-        transform: rotate(360deg);
-      }
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
     }
 
   </style>
@@ -120,9 +123,9 @@ title: Update Member Information
 
   <div id="verifying" hidden>
 
-    <h1>Verifying Your Link</h1>
-    <div id="verifying" hidden>
-      <div class="verification-spinner"></div>
+  <h1>Verifying Your Link</h1>
+    <div class="spinner-container">
+      <div class="spinner" role="status" aria-label="Verifying secure link"></div>
     </div>
 
   </div>
