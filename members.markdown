@@ -46,12 +46,13 @@ title: Members
 <div class="member-update">
 
   <div id="request-form">
-    <h1>Update Your Contact Information</h1>
+    <h1>Member Portal</h1>
 
     <p>
-      Enter your membership number to receive a secure link
-      to update your contact information.
+      Enter your Member Number to receive a secure link to access your Member information. The link will be emailed to the address we have on file for your property.
     </p>
+    <p>If you do not know your Member number, please contact us at
+    <a href="mailto:info@bonavistarc.com">info@bonavistarc.com</a>
 
     <form
       id="member-form"
@@ -59,7 +60,7 @@ title: Members
       action="https://script.google.com/macros/s/AKfycbzBQHMhYB6rTOxEV03TMqMTahRACxwCXSOl86VEbRu3HL8dlHq4YPa8eza4h82S5pcz/exec"
       target="submission-frame"
     >
-      <label for="memberNumber">Membership Number</label>
+      <label for="memberNumber">Member Number</label>
 
       <input
         type="text"
@@ -83,17 +84,11 @@ title: Members
     <h1>Check Your Email</h1>
 
     <p>
-      If the membership number matches our records, we've sent
-      an email with a secure link to continue.
+      If we have a matching Member Number and an email on file, you'll receive an email with a secure link to continue. Please remeber to check the spam folder if you do not recieve an email within a few minutes.
 	</p>
 
 	<p>
-	  The link will expire in 30 minutes.
-	</p>
-
-	<p>
-	    If you don't receive the email within a few minutes,
-	    please check your spam folder.
+	  The link in the email will expire in 30 minutes.
 	</p>
 
 	<p>
@@ -125,7 +120,7 @@ document
 
     /*
      * We intentionally show the same confirmation regardless
-     * of whether the membership number exists.
+     * of whether the member number exists.
      *
      * The Apps Script will perform the actual lookup.
      */

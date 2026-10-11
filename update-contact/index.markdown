@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Update Contact Information
+title: Update Member Information
 ---
 
 
