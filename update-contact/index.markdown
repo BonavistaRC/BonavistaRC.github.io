@@ -93,23 +93,39 @@ title: Update Member Information
     }
 
     /* Button */
-.button {
-  background-color: #4fcdcf; /* Pastel Green */
-  color: #fff;
-  padding: 17px;
-  text-align: center;
-  text-decoration: none;
-  text-decoration-color: #fff;
-  display: inline-block;
-  border-radius: 2px;
-  border: none;
-}
+    .button {
+      background-color: #4fcdcf; /* Pastel Green */
+      color: #fff;
+      padding: 17px;
+      text-align: center;
+      text-decoration: none;
+      text-decoration-color: #fff;
+      display: inline-block;
+      border-radius: 2px;
+      border: none;
+    }
 
-.button:hover {
-  opacity: .8 ;
-  color: white;
-  text-decoration: none;
-}
+    .button:hover {
+      opacity: .8 ;
+      color: white;
+      text-decoration: none;
+    }
+
+
+    .property-information {
+      margin-bottom: 25px;
+    }
+
+    .property-information p {
+      margin: 6px 0;
+    }
+
+    .contact-note {
+      font-size: 0.9em;
+      color: #555555;
+      line-height: 1.5;
+      margin-bottom: 20px;
+    }
   </style>
 
 
@@ -152,12 +168,26 @@ title: Update Member Information
       >
 
 
+      <!-- PROPERTY INFORMATION -->
+
+      <div class="property-information">
+        <p>
+          <strong>Property Address:</strong>
+          <span id="property-address"></span>
+        </p>
+
+        <p>
+          <strong>Registered Owner(s):</strong>
+          <span id="registered-owner"></span>
+        </p>
+      </div>
+
       <!-- OWNERSHIP -->
 
       <div class="field">
 
         <label>
-          Are you still the owner of this property?
+          Are you still the owner(s) of this property?
         </label>
 
         <div class="radio-option">
@@ -200,6 +230,9 @@ title: Update Member Information
 
       <div id="contact-fields" hidden>
 
+        <p class="contact-note">
+          We maintain one phone number and email address per property. If there are multiple owners, please choose the contact details you would like us to use.
+        </p>
 
         <div class="field">
 
@@ -504,6 +537,12 @@ title: Update Member Information
 
       document.getElementById('email').value =
         result.email || '';
+
+      document.getElementById('property-address').textContent =
+        result.propertyAddress || '';
+
+      document.getElementById('registered-owner').textContent =
+        result.registeredOwner || '';
 
 
       if (
