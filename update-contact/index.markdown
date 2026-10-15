@@ -201,7 +201,7 @@ title: Update Member Information
           >
 
           <label for="owner-current">
-            No – The property has been sold, is currently listed for sale, or I am preparing to sell.
+            Yes – I am a registered owner, and the property is not currently for sale.
           </label>
 
         </div>
@@ -217,10 +217,12 @@ title: Update Member Information
           >
 
           <label for="owner-moved">
-            No, the ownership of the property has changed
+            No – The property has been sold, is currently listed for sale, or I am preparing to sell.
           </label>
 
         </div>
+
+        <p>If you select No, we’ll provide information and instructions you can share with your realtor to help ensure a smooth transition for the new owners.</p>
 
       </div>
 
