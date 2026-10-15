@@ -187,7 +187,7 @@ title: Update Member Information
       <div class="field">
 
         <label>
-          Are you still the owner(s) of this property?
+          Do you currently own this property, and are you planning to keep it?
         </label>
 
         <div class="radio-option">
@@ -201,7 +201,7 @@ title: Update Member Information
           >
 
           <label for="owner-current">
-            Yes, I am a registered owner
+            No – The property has been sold, is currently listed for sale, or I am preparing to sell.
           </label>
 
         </div>
